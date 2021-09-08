@@ -1,5 +1,6 @@
 Name,Case,Whole Word,Path,Diacritic,Regex,Sort,Descending,Filter,Search,Index,File List,Host,Link Type,Macro,Key,View
 "ProjectFolders",0,1,0,0,0,"Name",0,"EVERYTHING","<child:.vscode|child:.git|child:.idea|regex:child:""^.*[.]code-workspace$""> !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$ ",0,"","",1,,,0
+size:41bite,0,0,0,0,0,Date Accessed,1,EVERYTHING,size:41bite,0,,,1,,,0
 "[projects]consoles",0,0,0,0,0,"Date Modified",1,"EVERYTHING","< ""E:\Programming(projects)\Sql\consoles\db"" | config\consoles\db >  !folder: content:union",0,"","",1,,,0
 "[projects]Gitz",0,0,0,0,0,"Name",1,"EVERYTHING","regex:child:""^[.]git$"" !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$",0,"","",1,,,0
 "[Git]Ignores",0,0,0,0,0,"Size",1,"EVERYTHING",".gitignore",0,"","",1,,,0
