@@ -3,6 +3,7 @@ Search,Search Count,Last Search Date
 "< ""E:\Programming(projects)\Sql\consoles\db"" | config\consoles\db >  !folder: content:union",7,132757568936511522
 "!E:\$ ext:ahk ",7,132594747358875743
 """E:\ToDatabase\"" !""E:\ToDatabase\Json\ImageMetaData\""",7,132576890313389041
+"!\$",6,132778934787714560
 "E:\Pictures\",6,132594246633442386
 "!D: !E:\$ !C:\$  < bak | ~ | ""("" > !attribute:L !E:\SteamLibrary\Modding\VortexDownload\ !E:\ToDatabase\Sqlite\ !E:\ToDatabase\Json\",6,132582573879919805
 ":\$RECYCLE.BIN",6,132571054206010835
@@ -30,6 +31,14 @@ Search,Search Count,Last Search Date
 "folder:wildcards:sizedupe:!(dmdupe:)!(infolder:E:\*RECYCLE*) size:huge..gigantic ",3,132571071310631689
 "sizedupe:size:huge..gigantic",3,132571054225396488
 "parent:""E:\PortableApps"" *.exe",3,132570949993910204
+"flagg dir:",2,132775666133607140
+"!\$ !""\.history""",2,132772945062189691
+"!dir:",2,132772076760932106
+"windowsPaths",2,132769521484852632
+"""C:\"" ",2,132766037848144469
+"folder: ""C:\"" ",2,132765945848024546
+"folder: ""C:\Users\crbk01\AppData\Roaming\"" ",2,132765936690437449
+"datagrip",2,132764783502657003
 "Bookmarks.csv",2,132761671977615319
 "D:\",2,132754909764479909
 "C:\ size:>10mb",2,132754876836867538
@@ -65,6 +74,45 @@ Search,Search Count,Last Search Date
 "Razer",2,132577091223552854
 "E:\ child:.git",2,132575941070310159
 "sizedupe:",2,132570998931505517
+"session",1,132778956106783157
+"bcompare",1,132778955115194862
+"""C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\"" ext:xml content:947f2b47-af0c-4354-9696-9462b1a4bf8b ",1,132778950796982632
+"""C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\default\.idea\"" !\.git content:5b682ee5-608b-4b16-bdfd-1132a4a5566f",1,132778922951083057
+"""C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\default\.idea\"" ",1,132778922067383282
+"""C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\Geosecma-Solen-Visoin-Vyer\.idea\dataSources\"" ",1,132778916066565213
+"utsökning dir:",1,132775665222291976
+"fnr dir:",1,132775664457429575
+"fil-  dir:",1,132775663357002163
+"utsökning  dir:",1,132775661614417930
+"harAns  dir:",1,132775660774276972
+"sol-v  dir:",1,132775659173618889
+"sol  dir:",1,132775658107618020
+"livsmedel  dir:",1,132775651024875669
+"visionH-nd dir:",1,132775646225010085
+"fnrToAdress dir:",1,132775637112916280
+"D:\ dataSources dir:",1,132775500425833511
+"dataSources dir:",1,132775496131075716
+"""D:\Users\crbk01\"" dir:",1,132774015577493508
+"""D:\Users\crbk01\"" ",1,132774015431537783
+"""C:\Users\crbk01\.DataGrip2019.3\config\"" ",1,132773991360067722
+"ahk",1,132773824645994991
+"history !\tortoiseGit !dir:",1,132772180792255380
+"history !\tortoiseGit",1,132772180376253318
+"histo",1,132772180044111078
+"!\$ !\games\ !""C:\Users\crbk01\Desktop\OnGithub""",1,132772075739748241
+"!\$ !\games\ ",1,132772074300379963
+"!\$ !\games\",1,132772072970096385
+"!thumb",1,132772062916692631
+" ",1,132772045299104917
+".",1,132772045201576207
+"path:""\shell\""",1,132769521444144839
+"path:/PSreadline/ !git:",1,132769496323079077
+"path:/PSreadline/ !gito:",1,132769494605631520
+"config",1,132766038314053236
+"folder: ""C:\windows.old"" ",1,132765941333696596
+"folder: ""D:\Users\crbk01\AppData\Roaming\"" ",1,132765931461409972
+"""C:\Users\crbk01\AppData\Roaming\"" ",1,132765917576596452
+"datagrip20",1,132765148428491020
 "book",1,132761671913314372
 "ext:ahk",1,132761660479192671
 """C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\Kv-FlaggGenerering\""",1,132759971646061786
@@ -150,7 +198,6 @@ Search,Search Count,Last Search Date
 "\.datagrip|\datagrip !folder: datemodified:2021-03-04",1,132593386382658692
 "\.datagrip|\datagrip !folder:",1,132593385123431790
 "\.datagrip|\datagrip folder:",1,132593383433276511
-"datagrip",1,132593382655776005
 "< ""E:\Programming(projects)\Sql\consoles\db"" | config\consoles\db >  !folder: content:title",1,132593313190619357
 """G:\My Pictures\"" !ext:png !ext:jpg",1,132591854174165562
 """E:\ToDatabase\uTorrent"" !\what.cd\ !ext:torrent !folder:",1,132591612518159430
