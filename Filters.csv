@@ -41,3 +41,4 @@ Name,Case,Whole Word,Path,Diacritics,Regex,Search,Macro,Key
 "Todo:powershellHistory",0,0,0,0,0,"powershellHistory",,
 "Todo:WindowsrunHistory",0,0,0,0,0,"runHistory",,
 "Todo:windowsPaths",0,0,0,0,0,"windowsPaths",,
+"EVERYTHING(Excluding:Wbin)",0,0,1,0,0,"!\$",,

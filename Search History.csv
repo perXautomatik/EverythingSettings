@@ -1,9 +1,9 @@
 Search,Search Count,Last Search Date
 "config\consoles\db !folder: content:""char""",8,132582489854877681
+"!\$",7,132778975248133795
 "< ""E:\Programming(projects)\Sql\consoles\db"" | config\consoles\db >  !folder: content:union",7,132757568936511522
 "!E:\$ ext:ahk ",7,132594747358875743
 """E:\ToDatabase\"" !""E:\ToDatabase\Json\ImageMetaData\""",7,132576890313389041
-"!\$",6,132778934787714560
 "E:\Pictures\",6,132594246633442386
 "!D: !E:\$ !C:\$  < bak | ~ | ""("" > !attribute:L !E:\SteamLibrary\Modding\VortexDownload\ !E:\ToDatabase\Sqlite\ !E:\ToDatabase\Json\",6,132582573879919805
 ":\$RECYCLE.BIN",6,132571054206010835
@@ -31,6 +31,8 @@ Search,Search Count,Last Search Date
 "folder:wildcards:sizedupe:!(dmdupe:)!(infolder:E:\*RECYCLE*) size:huge..gigantic ",3,132571071310631689
 "sizedupe:size:huge..gigantic",3,132571054225396488
 "parent:""E:\PortableApps"" *.exe",3,132570949993910204
+"""C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\"" ext:xml content:947f2b47-af0c-4354-9696-9462b1a4bf8b ",2,132778974780952895
+"everything",2,132778957219551513
 "flagg dir:",2,132775666133607140
 "!\$ !""\.history""",2,132772945062189691
 "!dir:",2,132772076760932106
@@ -74,9 +76,11 @@ Search,Search Count,Last Search Date
 "Razer",2,132577091223552854
 "E:\ child:.git",2,132575941070310159
 "sizedupe:",2,132570998931505517
+"""C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\"" ext:xml content:6f5acbc7-c2be-4b8b-a77a-ea78581ca491",1,132779041471815963
+"!\$ console",1,132778979735055239
+"path:<b|<beyond >>compare",1,132778957070368455
 "session",1,132778956106783157
 "bcompare",1,132778955115194862
-"""C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\"" ext:xml content:947f2b47-af0c-4354-9696-9462b1a4bf8b ",1,132778950796982632
 """C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\default\.idea\"" !\.git content:5b682ee5-608b-4b16-bdfd-1132a4a5566f",1,132778922951083057
 """C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\default\.idea\"" ",1,132778922067383282
 """C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\Geosecma-Solen-Visoin-Vyer\.idea\dataSources\"" ",1,132778916066565213
@@ -121,7 +125,6 @@ Search,Search Count,Last Search Date
 """C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\""",1,132757565547281536
 "path:default",1,132757558284538318
 "default",1,132757557915807895
-"everything",1,132755806073221027
 "wholefilename:config",1,132755802546471643
 "config ext:",1,132755801761862220
 "size:41bite",1,132755775533327799
