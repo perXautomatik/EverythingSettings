@@ -1,5 +1,5 @@
 Search,Search Count,Last Search Date
-"config\consoles\db !folder: content:""char""",8,132582489854877681
+"config\consoles\db !folder: content:""char""",9,132796250988646894
 "!\$",7,132778975248133795
 "< ""E:\Programming(projects)\Sql\consoles\db"" | config\consoles\db >  !folder: content:union",7,132757568936511522
 "!E:\$ ext:ahk ",7,132594747358875743
@@ -12,6 +12,7 @@ Search,Search Count,Last Search Date
 "<child:.vscode|child:.git|child:.idea> !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$ ",5,132588131817076697
 "<wildcards:diacritics:"".~*""> E:\  !folder: !E:\$",5,132587436601077901
 "regex:child:""^[.]git$""",5,132578902095764684
+"path:dataGrip path:projects dataSources.xml",4,132790331036103414
 "C:\",4,132754926889171078
 "regex:child:""^.*[.]code-workspace$"" !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$ ",4,132594740220561423
 "E:\Pictures\ x\",4,132594248493509866
@@ -19,6 +20,8 @@ Search,Search Count,Last Search Date
 "config\consoles\db !folder:",4,132579081964585195
 """E:\Programming(projects)\projectz\"" ",4,132576412466268030
 "parent:c\windows\system32 *.e",4,132570947689353278
+"!\$ console",3,132779748157361108
+"everything",3,132779041548810560
 """C:\Users\crbk01\AppData\Local\Packages"" Microsoft.Office.OneNote_8wekyb3d8bbwe",3,132754888922796665
 "ext:sqlite !\$ \todatabase\",3,132593721950795214
 "E:\ToDatabase\Sqlite\ !folder: ext:sqlite !-",3,132593697427768662
@@ -31,8 +34,22 @@ Search,Search Count,Last Search Date
 "folder:wildcards:sizedupe:!(dmdupe:)!(infolder:E:\*RECYCLE*) size:huge..gigantic ",3,132571071310631689
 "sizedupe:size:huge..gigantic",3,132571054225396488
 "parent:""E:\PortableApps"" *.exe",3,132570949993910204
+"ext:ps1 utf8content:expose",2,132814430041084277
+"!C:\ path:console 2ca40bb3-aca4-412d-a610-84b4e5da6dbe ",2,132814425614099606
+"path:consoles\db\ content:""xml""",2,132793773152554131
+"""D:\Unsorted\Empty\"" dir:",2,132791235760996156
+"wholefilename:child:"".git""",2,132791035995410220
+"path:dataGrip path:projects child:.idea",2,132790991027240339
+"dataSources !esri !empty ext:xml",2,132790227512767814
+"powershell",2,132790227501784767
+"fastigheter",2,132790227489436199
+"path:sql setup.exe",2,132790227465259210
+"dataSources dir:",2,132787846686129712
+"wfn:bookmarks ext:",2,132785251568918594
+"path:dataGrip path:projects dataSources.xml content:admsql01",2,132781453851829972
+"ext:ps1",2,132779085977446489
+"""C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\"" ext:xml content:6f5acbc7-c2be-4b8b-a77a-ea78581ca491",2,132779042440322374
 """C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\"" ext:xml content:947f2b47-af0c-4354-9696-9462b1a4bf8b ",2,132778974780952895
-"everything",2,132778957219551513
 "flagg dir:",2,132775666133607140
 "!\$ !""\.history""",2,132772945062189691
 "!dir:",2,132772076760932106
@@ -76,8 +93,74 @@ Search,Search Count,Last Search Date
 "Razer",2,132577091223552854
 "E:\ child:.git",2,132575941070310159
 "sizedupe:",2,132570998931505517
-"""C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\"" ext:xml content:6f5acbc7-c2be-4b8b-a77a-ea78581ca491",1,132779041471815963
-"!\$ console",1,132778979735055239
+"open in vscode",1,132820435986066606
+"!C:\ ext:sql path:dataGrip path:console utf8content:""gotlandfiler""",1,132815459374405177
+"!C:\ ext:sql path:dataGrip path:console utf8content:""filer""",1,132815457833457800
+"!C:\ ext:sql path:dataGrip path:console utf8content:""strFnrID is null""",1,132815415225476121
+"!C:\ ext:sql path:dataGrip path:console utf8content:<sp_executesql'",1,132815414904723275
+"!C:\ ext:sql path:dataGrip path:console utf8content:sp_executesql",1,132814505779867593
+"!C:\ ext:sql path:dataGrip path:console utf8content:exec",1,132814452918672176
+"!C:\ ext:sql path:dataGrip path:console utf8content:bulk",1,132814450258144780
+"VWAEHAERENDE",1,132814438750618890
+"!C:\ ext:sql path:dataGrip path:console utf8content:socken",1,132814428130351201
+"path:console 2ca40bb3-aca4-412d-a610-84b4e5da6dbe ",1,132814379198334736
+"2ca40bb3-aca4-412d-a610-84b4e5da6dbe",1,132814379008143013
+"!C:\ ext:sql path:dataGrip path:console utf8content:AdressCorrection",1,132814378453150863
+"!C:\ ext:sql path:dataGrip path:console utf8content:20201112Flaggor",1,132814377845440796
+"ext:sql path:dataGrip path:console utf8content:20201112Flaggor",1,132814376198079569
+"path:dataGrip path:console utf8content:vwAehAerende utf8content:alias",1,132814367186805037
+"ditto",1,132805825830912537
+"path:<jetBrains|datagrip> csv",1,132804240352300157
+"System.Xml.ReaderWriter.dll",1,132799710974102854
+"path:trello !ext:one",1,132798912445093847
+"trello",1,132798912104689461
+"config\consoles\db !folder: content:""open""",1,132796251183753528
+"config\consoles\db !folder: content:""xml""",1,132793768605981019
+"ext:sql !\$",1,132791236050469292
+"""C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\consoles\db\7e4fb899-0567-4da7-8a60-86bca3049c5c\Kvutsökning\TillMinaMedelanden\"" ",1,132791164910819804
+"""D:\Unsorted\""  dir:",1,132791070551036862
+"""D:\Unsorted\"" ",1,132791070451981414
+"""D:\Unsorted\Empty\"" ",1,132791069133750891
+"runscript ext:xml",1,132790989334244191
+"path:dataGrip path:projects child:dataSources.xml",1,132790353949733344
+"!esri !empty ext:iml",1,132790228830452388
+"dataSources !C: !esri !empty ext:xml",1,132787847307475835
+"dataSources dir: !C:",1,132787846783645093
+"datasou",1,132787846618029556
+".idea dir: !empty: !C:",1,132787841936029106
+".idea dir: !empty:",1,132787841319943558
+".idea dir:",1,132787840767780179
+"data.sqlite",1,132787838911623043
+"BC4key",1,132786724499097726
+"bcomp",1,132786723321841811
+"gitconfig",1,132786711463149739
+"infolder:""C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\consoles\db\5b682ee5-608b-4b16-bdfd-1132a4a5566f\""",1,132785232000108625
+"Microsoft.PowerShell_profile.ps1",1,132784160297214222
+"bookmarks",1,132783736753015980
+"947f2b47-af0c-4354-9696-9462b1a4bf8b dir:",1,132781563773656447
+"947f2b47-af0c-4354-9696-9462b1a4bf8b",1,132781563388013960
+"path:dataGrip path:projects dataSources.xml content:947f2b47-af0c-4354-9696-9462b1a4bf8b",1,132781560212769540
+"path:dataGrip path:projects dataSources.xml content:admsql01<",1,132781453498280194
+"ext:code-workspace",1,132779907330810663
+"ext:ps1;ps2 !\.vscode profile",1,132779246787862809
+"ext:ps1 !\.vscode profile",1,132779238928934216
+"ext:ps1 !\.vscode",1,132779088054050922
+"path:dataGrip path:projects datas",1,132779049202272715
+"path:dataGrip path:projects datasource.xml",1,132779049121450380
+"path:dataGrip path:projects path:console",1,132779048961682037
+"path:dataGrip path:projects",1,132779048734084520
+"dataGrip projects dataSources",1,132779048226917787
+"dataGrip projects dataSources.xml",1,132779048174380996
+"dataGrip*projects*dataSources.xml",1,132779048081470182
+"wildcards:path:dataGrip*projects*dataSources.xml",1,132779047607443463
+"wildcards:path:dataGrip*projects  dataSources.xml",1,132779047546097529
+"path:DataGrip projects  dataSources.xml",1,132779047363683815
+"DataGrip projects  dataSources.xml",1,132779047306031656
+"DataGrip ""projects\"" dataSources.xml",1,132779047227155858
+"DataGrip ""projects\""""dataSources.xml",1,132779047167125016
+"DataGrip ""projects\"" ""dataSources.xml"" ",1,132779047060563928
+"""C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\"" dataSources.xml content:cbde40e1-0091-4576-9aa8-1c7aeb5086a4",1,132779046515449133
+"""C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\"" ext:xml content:cbde40e1-0091-4576-9aa8-1c7aeb5086a4",1,132779046244796239
 "path:<b|<beyond >>compare",1,132778957070368455
 "session",1,132778956106783157
 "bcompare",1,132778955115194862
@@ -95,7 +178,6 @@ Search,Search Count,Last Search Date
 "visionH-nd dir:",1,132775646225010085
 "fnrToAdress dir:",1,132775637112916280
 "D:\ dataSources dir:",1,132775500425833511
-"dataSources dir:",1,132775496131075716
 """D:\Users\crbk01\"" dir:",1,132774015577493508
 """D:\Users\crbk01\"" ",1,132774015431537783
 """C:\Users\crbk01\.DataGrip2019.3\config\"" ",1,132773991360067722
@@ -144,7 +226,6 @@ Search,Search Count,Last Search Date
 """D:\Users\crbk01\AppData\Local\Microsoft\"" folder: parents:6",1,132754913765196542
 """C:\Users\crbk01\AppData\Local\Microsoft\"" folder: parents:6",1,132754911828157003
 "ext:ps1 link",1,132754879558348424
-"ext:ps1",1,132754878926659661
 """C:\Users\crbk01\AppData\Local\Packages"" ",1,132754871831783131
 """C:\Users\crbk01\AppData\Local\Packages\"" dir:",1,132754870807915397
 "size:>10mb",1,132754863908664026
