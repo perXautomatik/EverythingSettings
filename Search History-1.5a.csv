@@ -2,12 +2,13 @@ Search,Search Count,Last Search Date
 "mingw64",11,132838750734120226
 "datagrip",7,132838743021991044
 "path:wildcard:*vs*code* ext:exe",5,132846618706609839
-"D:\ regex:"".*[(]2[)]""",3,132856091207803299
+"D:\ regex:"".*[(]2[)]""",4,132856930653985105
 "psreadline",3,132833043758535063
 """D:\AppData\"" !.git\ !\cache !cache\ !dir: !node_modules\ !plugins\ !\Temp !Temp\ !updates\ !emojis\ !mixxx\ !D:\AppData\Local\Microsoft\RSA\MachineKeys\ !""D:\AppData\Roaming\JetBrains\DataGrip2021.1\jdbc-drivers\"" !assets\ !\packages !locales\ !empty: !""D:\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\"" !""D:\AppData\Roaming\Vortex\downloads\"" !\index\",2,132856085825542018
 "wildcard:path:*todo*",2,132838772262227222
 "wfn:child:.git",2,132821732704636127
 "Arrogant Bastard Typhoon Gaming mouse",2,132821287779435941
+"D:\ regex:"".*[(]\d[)]""",1,132856931208254784
 "D:\appdata empty:",1,132855552904132387
 """D:\AppData\"" !.git\ !\cache !cache\ !dir: !node_modules\ !plugins\ !\Temp !Temp\ !updates\ !emojis\ !mixxx\ !D:\AppData\Local\Microsoft\RSA\MachineKeys\ !""D:\AppData\Roaming\JetBrains\DataGrip2021.1\jdbc-drivers\"" !assets\ !\packages !locales\ !empty: !""D:\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\""",1,132855247404859908
 """D:\AppData\"" !.git\ !\cache !cache\ !dir: !node_modules\ !plugins\ !\Temp !Temp\ !updates\ !emojis\ !mixxx\ !D:\AppData\Local\Microsoft\RSA\MachineKeys\ !""D:\AppData\Roaming\JetBrains\DataGrip2021.1\jdbc-drivers\"" !assets\ !\packages !locales\ !empty:",1,132855246168034077
