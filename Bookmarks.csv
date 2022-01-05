@@ -24,3 +24,5 @@ Name,Case,Whole Word,Path,Diacritic,Regex,Sort,Descending,Filter,Search,Index,Fi
 "dataSources dataGrip",0,0,0,0,0,"Date Accessed",0,"EVERYTHING","path:dataGrip path:projects dataSources.xml",0,"","",1,,,0
 "[Json-Chromium]Bookmarks",0,0,0,0,0,"Date Accessed",1,"EVERYTHING(Absolutely)","wfn:bookmarks ext:",0,"","",1,,,0
 "fastContent",0,0,0,0,0,"Date Accessed",1,"EVERYTHING(Absolutely)","!C: path:datagrip path:console ext:sql utf8content:""tbAehHaendelseFileObject""",0,"","",1,,,0
+"gitRepoFolders",0,0,0,0,0,"Size",1,"EVERYTHING(Excluding:Wbin)","wholefilename:child:"".git"" !temp\",0,"","",1,,,0
+"Putty Private Key",0,0,0,0,0,"Date Accessed",1,"EVERYTHING(Absolutely)","ext:ppk",0,"","",1,,,0
