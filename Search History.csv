@@ -36,6 +36,7 @@ Search,Search Count,Last Search Date
 "folder:wildcards:sizedupe:!(dmdupe:)!(infolder:E:\*RECYCLE*) size:huge..gigantic ",3,132571071310631689
 "sizedupe:size:huge..gigantic",3,132571054225396488
 "parent:""E:\PortableApps"" *.exe",3,132570949993910204
+"fanny",2,132860197538805228
 """C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\consoles\db\49f168c8-015c-43d2-b9f4-06de275bdc15\select\utbyte"" ",2,132842216248526028
 "!C:\Users\crbk01\AppData\Local\Temp\TortoiseGit\ !C:\",2,132838583862507038
 """C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\default\.idea\"" !\.git content:5b682ee5-608b-4b16-bdfd-1132a4a5566f",2,132838581523981256
@@ -98,6 +99,11 @@ Search,Search Count,Last Search Date
 "Razer",2,132577091223552854
 "E:\ child:.git",2,132575941070310159
 "sizedupe:",2,132570998931505517
+"""c:\users\crbk01\appdata"" dir:",1,132859850851668002
+"""c:\users\crbk01\appdata""",1,132859850249157412
+"""c:\users\crbk01\""",1,132859849983548891
+"microsoft.office.interop.excel.dll",1,132858492879150468
+"msexce",1,132858489055957027
 """C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\consoles\db\49f168c8-015c-43d2-b9f4-06de275bdc15\HandToAr"" ",1,132842216313630861
 """C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\consoles\db\49f168c8-015c-43d2-b9f4-06de275bdc15\HandToAr\"" ",1,132842216139158818
 """C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\consoles\db\49f168c8-015c-43d2-b9f4-06de275bdc15\select\Huvudkontakt"" ",1,132842191860402865
