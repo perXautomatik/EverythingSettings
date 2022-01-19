@@ -1,9 +1,11 @@
 Search,Search Count,Last Search Date
+"wholefilename:child:"".git"" !temp\",11,132869828140650574
 "config\consoles\db !folder: content:""char""",10,132838611334916316
 "!\$",7,132778975248133795
 "< ""E:\Programming(projects)\Sql\consoles\db"" | config\consoles\db >  !folder: content:union",7,132757568936511522
 "!E:\$ ext:ahk ",7,132594747358875743
 """E:\ToDatabase\"" !""E:\ToDatabase\Json\ImageMetaData\""",7,132576890313389041
+"wholefilename:child:"".git""",6,132862803993118580
 "path:dataGrip path:projects dataSources.xml",6,132839449820409249
 "E:\Pictures\",6,132594246633442386
 "!D: !E:\$ !C:\$  < bak | ~ | ""("" > !attribute:L !E:\SteamLibrary\Modding\VortexDownload\ !E:\ToDatabase\Sqlite\ !E:\ToDatabase\Json\",6,132582573879919805
@@ -14,7 +16,9 @@ Search,Search Count,Last Search Date
 "<child:.vscode|child:.git|child:.idea> !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$ ",5,132588131817076697
 "<wildcards:diacritics:"".~*""> E:\  !folder: !E:\$",5,132587436601077901
 "regex:child:""^[.]git$""",5,132578902095764684
-"wholefilename:child:"".git""",4,132833564054895497
+"ext:dbf;mdb;adt;wab;vcs;dbb;sav;wk1;wq1",4,132868332732039889
+"data.sqlite",4,132868300079203172
+"wfn:bookmarks ext:",4,132866470586559691
 "C:\",4,132754926889171078
 "regex:child:""^.*[.]code-workspace$"" !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$ ",4,132594740220561423
 "E:\Pictures\ x\",4,132594248493509866
@@ -22,6 +26,7 @@ Search,Search Count,Last Search Date
 "config\consoles\db !folder:",4,132579081964585195
 """E:\Programming(projects)\projectz\"" ",4,132576412466268030
 "parent:c\windows\system32 *.e",4,132570947689353278
+"wfn:history ext:",3,132866490436115045
 "!\$ console",3,132779748157361108
 "everything",3,132779041548810560
 """C:\Users\crbk01\AppData\Local\Packages"" Microsoft.Office.OneNote_8wekyb3d8bbwe",3,132754888922796665
@@ -40,7 +45,6 @@ Search,Search Count,Last Search Date
 """C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\consoles\db\49f168c8-015c-43d2-b9f4-06de275bdc15\select\utbyte"" ",2,132842216248526028
 "!C:\Users\crbk01\AppData\Local\Temp\TortoiseGit\ !C:\",2,132838583862507038
 """C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\default\.idea\"" !\.git content:5b682ee5-608b-4b16-bdfd-1132a4a5566f",2,132838581523981256
-"wholefilename:child:"".git"" !temp\",2,132838567787270194
 "ext:ps1 utf8content:expose",2,132814430041084277
 "!C:\ path:console 2ca40bb3-aca4-412d-a610-84b4e5da6dbe ",2,132814425614099606
 "path:consoles\db\ content:""xml""",2,132793773152554131
@@ -51,7 +55,6 @@ Search,Search Count,Last Search Date
 "fastigheter",2,132790227489436199
 "path:sql setup.exe",2,132790227465259210
 "dataSources dir:",2,132787846686129712
-"wfn:bookmarks ext:",2,132785251568918594
 "path:dataGrip path:projects dataSources.xml content:admsql01",2,132781453851829972
 "ext:ps1",2,132779085977446489
 """C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\"" ext:xml content:6f5acbc7-c2be-4b8b-a77a-ea78581ca491",2,132779042440322374
@@ -99,6 +102,20 @@ Search,Search Count,Last Search Date
 "Razer",2,132577091223552854
 "E:\ child:.git",2,132575941070310159
 "sizedupe:",2,132570998931505517
+"wholefilename:child:"".git"" !temp\ comp",1,132869777844947389
+"ext:sh",1,132869775338692208
+"git.cmd|git.exe",1,132869774892067339
+"ext:",1,132866491428433216
+"ext:"""";dbf;mdb;adt;wab;vcs;dbb;sav;wk1;wq1 !""C:\Users\crbk01\OneDrive - Region Gotland\Games""",1,132865651309721531
+"ext:dbf;mdb;adt;wab;vcs;dbb;sav;wk1;wq1 !""C:\Users\crbk01\OneDrive - Region Gotland\Games""",1,132865649935491325
+"d: ext:exe",1,132863810543410272
+"ext:sql content:(1) !C:\",1,132863016397748397
+"ext:sql content:stx !C:\",1,132863013821926260
+"ext:sql content:3015 !C:\",1,132863011623184262
+"ext:sql content:Shape !C:\",1,132863010447335126
+"ext:sql content:sde",1,132863004245617351
+"ext:sql content:sde.st_astext",1,132863004151279597
+"ext:sql content:bulk content:csv",1,132862915751044918
 """c:\users\crbk01\appdata"" dir:",1,132859850851668002
 """c:\users\crbk01\appdata""",1,132859850249157412
 """c:\users\crbk01\""",1,132859849983548891
@@ -166,7 +183,6 @@ Search,Search Count,Last Search Date
 ".idea dir: !empty: !C:",1,132787841936029106
 ".idea dir: !empty:",1,132787841319943558
 ".idea dir:",1,132787840767780179
-"data.sqlite",1,132787838911623043
 "BC4key",1,132786724499097726
 "bcomp",1,132786723321841811
 "gitconfig",1,132786711463149739
