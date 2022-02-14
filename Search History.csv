@@ -1,5 +1,5 @@
 Search,Search Count,Last Search Date
-"wholefilename:child:"".git"" !temp\",11,132869828140650574
+"wholefilename:child:"".git"" !temp\",18,132874940263090548
 "config\consoles\db !folder: content:""char""",10,132838611334916316
 "!\$",7,132778975248133795
 "< ""E:\Programming(projects)\Sql\consoles\db"" | config\consoles\db >  !folder: content:union",7,132757568936511522
@@ -10,12 +10,15 @@ Search,Search Count,Last Search Date
 "E:\Pictures\",6,132594246633442386
 "!D: !E:\$ !C:\$  < bak | ~ | ""("" > !attribute:L !E:\SteamLibrary\Modding\VortexDownload\ !E:\ToDatabase\Sqlite\ !E:\ToDatabase\Json\",6,132582573879919805
 ":\$RECYCLE.BIN",6,132571054206010835
+"parent:C:\Users\crbk01\AppData\Local",5,132874372969685648
 "regex:child:""^[.]idea$"" !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$ ",5,132839449650615821
 "~",5,132757557243445777
 "regex:child:""^[.]git$"" !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$",5,132594264902603580
 "<child:.vscode|child:.git|child:.idea> !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$ ",5,132588131817076697
 "<wildcards:diacritics:"".~*""> E:\  !folder: !E:\$",5,132587436601077901
 "regex:child:""^[.]git$""",5,132578902095764684
+"wfn:History",4,132875035184413540
+"ConsoleHost_history.txt",4,132874939769510579
 "ext:dbf;mdb;adt;wab;vcs;dbb;sav;wk1;wq1",4,132868332732039889
 "data.sqlite",4,132868300079203172
 "wfn:bookmarks ext:",4,132866470586559691
@@ -41,6 +44,8 @@ Search,Search Count,Last Search Date
 "folder:wildcards:sizedupe:!(dmdupe:)!(infolder:E:\*RECYCLE*) size:huge..gigantic ",3,132571071310631689
 "sizedupe:size:huge..gigantic",3,132571054225396488
 "parent:""E:\PortableApps"" *.exe",3,132570949993910204
+"SQLite.dll",2,132874940144437202
+"psReadline dir:",2,132871590891405509
 "fanny",2,132860197538805228
 """C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\consoles\db\49f168c8-015c-43d2-b9f4-06de275bdc15\select\utbyte"" ",2,132842216248526028
 "!C:\Users\crbk01\AppData\Local\Temp\TortoiseGit\ !C:\",2,132838583862507038
@@ -102,6 +107,12 @@ Search,Search Count,Last Search Date
 "Razer",2,132577091223552854
 "E:\ child:.git",2,132575941070310159
 "sizedupe:",2,132570998931505517
+"psReadline",1,132871590688270305
+"parent:wildcards:*\psReadline\",1,132871590248587158
+"wholefilename:child:"".git"" !temp\ ps",1,132871587504173523
+"dir:node_modules",1,132870724782570210
+"dir:modules",1,132870722634881341
+"git ext",1,132870552286626787
 "php",1,132870518345458494
 "wholefilename:child:"".git"" !temp\ comp",1,132869777844947389
 "ext:sh",1,132869775338692208
