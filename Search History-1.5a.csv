@@ -1,14 +1,26 @@
 Search,Search Count,Last Search Date
+"consoleHost !dir:",14,132871612319694401
 "mingw64",11,132838750734120226
 "datagrip",7,132838743021991044
 "path:wildcard:*vs*code* ext:exe",5,132846618706609839
 "D:\ regex:"".*[(]2[)]""",4,132856930653985105
 "psreadline",3,132833043758535063
+"mteFunction",2,132891442547739261
+"windowsadmin dir:",2,132877180089572457
+"D:\ ext:ahk  !\$",2,132871578444869504
+"D:\ ext:ini fallout4 !\$",2,132866684830278952
+"D:\ regex:"".*[(]\d[)]""",2,132866659412815699
 """D:\AppData\"" !.git\ !\cache !cache\ !dir: !node_modules\ !plugins\ !\Temp !Temp\ !updates\ !emojis\ !mixxx\ !D:\AppData\Local\Microsoft\RSA\MachineKeys\ !""D:\AppData\Roaming\JetBrains\DataGrip2021.1\jdbc-drivers\"" !assets\ !\packages !locales\ !empty: !""D:\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\"" !""D:\AppData\Roaming\Vortex\downloads\"" !\index\",2,132856085825542018
 "wildcard:path:*todo*",2,132838772262227222
 "wfn:child:.git",2,132821732704636127
 "Arrogant Bastard Typhoon Gaming mouse",2,132821287779435941
-"D:\ regex:"".*[(]\d[)]""",1,132856931208254784
+"admin dir:",1,132871641107040252
+"psreadline dir:",1,132871614953020891
+"console !dir:",1,132871578659261778
+"D:\ ext:ini fallout !\$",1,132866665138122525
+"D:\ ext:ini fallout !$",1,132866663934914670
+"D:\ ext:ini fallout !F",1,132866663523050600
+"D:\ ext:ini fallout",1,132866659951317692
 "D:\appdata empty:",1,132855552904132387
 """D:\AppData\"" !.git\ !\cache !cache\ !dir: !node_modules\ !plugins\ !\Temp !Temp\ !updates\ !emojis\ !mixxx\ !D:\AppData\Local\Microsoft\RSA\MachineKeys\ !""D:\AppData\Roaming\JetBrains\DataGrip2021.1\jdbc-drivers\"" !assets\ !\packages !locales\ !empty: !""D:\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\""",1,132855247404859908
 """D:\AppData\"" !.git\ !\cache !cache\ !dir: !node_modules\ !plugins\ !\Temp !Temp\ !updates\ !emojis\ !mixxx\ !D:\AppData\Local\Microsoft\RSA\MachineKeys\ !""D:\AppData\Roaming\JetBrains\DataGrip2021.1\jdbc-drivers\"" !assets\ !\packages !locales\ !empty:",1,132855246168034077
