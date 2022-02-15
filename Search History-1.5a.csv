@@ -5,6 +5,7 @@ Search,Search Count,Last Search Date
 "path:wildcard:*vs*code* ext:exe",5,132846618706609839
 "D:\ regex:"".*[(]2[)]""",4,132856930653985105
 "psreadline",3,132833043758535063
+"mteFunction",2,132891442547739261
 "windowsadmin dir:",2,132877180089572457
 "D:\ ext:ahk  !\$",2,132871578444869504
 "D:\ ext:ini fallout4 !\$",2,132866684830278952
@@ -13,7 +14,6 @@ Search,Search Count,Last Search Date
 "wildcard:path:*todo*",2,132838772262227222
 "wfn:child:.git",2,132821732704636127
 "Arrogant Bastard Typhoon Gaming mouse",2,132821287779435941
-"mteFunction",1,132878487417622163
 "admin dir:",1,132871641107040252
 "psreadline dir:",1,132871614953020891
 "console !dir:",1,132871578659261778
