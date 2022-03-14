@@ -1,5 +1,6 @@
 Search,Search Count,Last Search Date
 "config\consoles\db !folder: content:""char""",8,132582489854877681
+"<child:.vscode|child:.git|child:.idea> !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$ ",7,132914875429253503
 "< ""E:\Programming(projects)\Sql\consoles\db"" | config\consoles\db >  !folder: content:union",7,132757568936511522
 "!E:\$ ext:ahk ",7,132594747358875743
 """E:\ToDatabase\"" !""E:\ToDatabase\Json\ImageMetaData\""",7,132576890313389041
@@ -9,7 +10,6 @@ Search,Search Count,Last Search Date
 ":\$RECYCLE.BIN",6,132571054206010835
 "~",5,132757557243445777
 "regex:child:""^[.]git$"" !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$",5,132594264902603580
-"<child:.vscode|child:.git|child:.idea> !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$ ",5,132588131817076697
 "<wildcards:diacritics:"".~*""> E:\  !folder: !E:\$",5,132587436601077901
 "regex:child:""^[.]git$""",5,132578902095764684
 "C:\",4,132754926889171078
@@ -31,6 +31,9 @@ Search,Search Count,Last Search Date
 "folder:wildcards:sizedupe:!(dmdupe:)!(infolder:E:\*RECYCLE*) size:huge..gigantic ",3,132571071310631689
 "sizedupe:size:huge..gigantic",3,132571054225396488
 "parent:""E:\PortableApps"" *.exe",3,132570949993910204
+"wholeword:child:.git !C:\users\Crbk01\AppData\Local\Temp",2,132914875916426598
+"ext:log datecreated:today",2,132914846075741670
+"child:"".git""",2,132914842246111060
 "flagg dir:",2,132775666133607140
 "!\$ !""\.history""",2,132772945062189691
 "!dir:",2,132772076760932106
@@ -74,6 +77,18 @@ Search,Search Count,Last Search Date
 "Razer",2,132577091223552854
 "E:\ child:.git",2,132575941070310159
 "sizedupe:",2,132570998931505517
+"<wholefilename:child:.git file:>|<wholefilename:child:.git folder:> !C:\users\Crbk01\AppData\Local\Temp",1,132914860095133129
+"child:<wholefilename:.git file:>|<wholefilename:.git folder:> !C:\users\Crbk01\AppData\Local\Temp",1,132914859730329400
+"wholefilename:.git !C:\users\Crbk01\AppData\Local\Temp",1,132914858462511100
+"child:.git !C:\users\Crbk01\AppData\Local\Temp",1,132914857159622907
+"wildcards:child:*.git",1,132914856515983117
+"wildcards:child:.git",1,132914852052974227
+"<wildcards:*.git>",1,132914849691707725
+"<child:.git>",1,132914849187546137
+"lazy.log datecreated:today",1,132914846202745425
+"every",1,132914843535106903
+"child"".git""",1,132914841808490351
+"ext:log",1,132914779798265408
 "session",1,132778956106783157
 "bcompare",1,132778955115194862
 """C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\"" ext:xml content:947f2b47-af0c-4354-9696-9462b1a4bf8b ",1,132778950796982632
@@ -382,7 +397,6 @@ Search,Search Count,Last Search Date
 "E:\ToDatabase\",1,132576890753929034
 "regex:child:""[.]git$""",1,132575966657749438
 "regex:child:""[.]git""",1,132575966498420129
-"child:"".git""",1,132575965549130229
 """.git""",1,132575941716716609
 "arena",1,132575674950953711
 "!D: !E:\$ !C:\$  < bak | ~ | ""("" > !attribute:L !E:\SteamLibrary\Modding\VortexDownload\",1,132575647133184626
