@@ -5,12 +5,12 @@ Search,Search Count,Last Search Date
 "< ""E:\Programming(projects)\Sql\consoles\db"" | config\consoles\db >  !folder: content:union",7,132757568936511522
 "!E:\$ ext:ahk ",7,132594747358875743
 """E:\ToDatabase\"" !""E:\ToDatabase\Json\ImageMetaData\""",7,132576890313389041
+"parent:C:\Users\crbk01\AppData\Local",6,132923314911694394
 "wholefilename:child:"".git""",6,132862803993118580
 "path:dataGrip path:projects dataSources.xml",6,132839449820409249
 "E:\Pictures\",6,132594246633442386
 "!D: !E:\$ !C:\$  < bak | ~ | ""("" > !attribute:L !E:\SteamLibrary\Modding\VortexDownload\ !E:\ToDatabase\Sqlite\ !E:\ToDatabase\Json\",6,132582573879919805
 ":\$RECYCLE.BIN",6,132571054206010835
-"parent:C:\Users\crbk01\AppData\Local",5,132874372969685648
 "regex:child:""^[.]idea$"" !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$ ",5,132839449650615821
 "~",5,132757557243445777
 "regex:child:""^[.]git$"" !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$",5,132594264902603580
@@ -107,6 +107,13 @@ Search,Search Count,Last Search Date
 "Razer",2,132577091223552854
 "E:\ child:.git",2,132575941070310159
 "sizedupe:",2,132570998931505517
+"parent:'C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\consoles\db\",1,132923312471644110
+"\947f2b47-af0c-4354-9696-9462b1a4bf8b\",1,132923270186778785
+"path:ext:xlsx !<\OneDrive|\ArcGIS|$|\appData|\java>",1,132920832238083514
+"ext:xlsx !$",1,132920830393315350
+"ext:xlsx",1,132920697169376643
+"ext:exe ""C:\Program Files\WindowsApps\""",1,132920666630529393
+"ext:exe office",1,132920666384456252
 "psReadline",1,132871590688270305
 "parent:wildcards:*\psReadline\",1,132871590248587158
 "wholefilename:child:"".git"" !temp\ ps",1,132871587504173523
