@@ -1,5 +1,6 @@
 Filename,Run Count,Last Run Date
 "C:\Users\crbk01\.DataGrip2019.3\config\consoles\db\027c2d16-67ba-4eeb-837e-f99b41e4c813\selectFromsde_geofir_gotland.gng.READDRESS.sql",4,0
+"D:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\Kv-Utsökning",3,132790991516892489
 "D:\Users\crbk01\.DataGrip2019.5\config\proj\Kv-Utsökning\FnrToAdress",3,132775664458998406
 "D:\Users\crbk01\.DataGrip2019.5\config\proj\Kv-Utsökning\.idea\dataSources",3,132775578704323995
 "C:\Users\crbk01\AppData\Roaming\Microsoft\Windows\PowerShell\PSReadline\ConsoleHost_history.txt",3,132772151683926681
@@ -11,11 +12,24 @@ Filename,Run Count,Last Run Date
 "C:\Users\crbk01\.DataGrip2019.3\config\projects\FnrToAdress\usökningkv2020-11.sql",3,132584528641537582
 "C:\Users\crbk01\.DataGrip2019.3\config\projects\Sql-harAns-kan\sp_xKonUpgToAdr.sql",3,132584525277709987
 "C:\ProgramData\Path of Building",3,132577971416268218
-"C:\9dfe73ef\consoles\db\07bf6c1c-de97-499e-be71-76a1e7b9ba16\add.log",2,132914782604591013
-"C:\9dfe73ef\consoles\db\04815000-031e-4584-8d2a-3eccb07f7216\push.log",2,132914782543804469
-"C:\9dfe73ef\consoles\db\04815000-031e-4584-8d2a-3eccb07f7216\commit.log",2,132914782452345839
-"C:\9dfe73ef\consoles\db\04815000-031e-4584-8d2a-3eccb07f7216\add.log",2,132914782237550780
-"C:\9dfe73ef\projects\MapBasic\MailOrganization\commonLib\push.log",2,132914781509706401
+"D:\Users\crbk01\.vscode\.vscode\extensions\marcoq.vscode-typescript-to-json-schema-0.0.16\node_modules",2,132870725184124372
+"C:\Users\crbk01\AppData\Roaming\Scooter Software\Beyond Compare 4",2,132869777911592112
+"C:\Users\crbk01\AppData\Roaming\Microsoft\Windows\PowerShell\PSReadline",2,132866277694486290
+"C:\Windows\assembly\GAC_MSIL\Microsoft.Office.Interop.Excel\15.0.0.0__71e9bce111e9429c\Microsoft.Office.Interop.Excel.dll",2,132858494187005440
+"D:\portapps\6, Text,programming, x Editing\PortableApps\WinMergePortable\App\WinMerge\MergePlugins\CompareMSExcelFiles.sct",2,132858489294953249
+"D:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\Fil-Till-Vision\.idea\dataSources.xml",2,132839451899715693
+"D:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\Vision-Fil-Insert\.idea\dataSources.xml",2,132839451441319058
+"C:\Users\crbk01\AppData\Local\Temp\MicrosoftEdgeDownloads\a19ffc95-b43c-4dc6-85b6-f4bf92e698d9\Påminnelseutskick_skrivelse_v3.docx",2,132834274250964339
+"C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1",2,132833597768587405
+"D:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\Vision-Fil-Insert",2,132833580212845610
+"D:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\consoles\.history\db\8cc23256-e02c-43ea-8477-e740c4580b62.sql",2,132815458621879813
+"D:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\consoles\.history\db\2ca40bb3-aca4-412d-a610-84b4e5da6dbe.sql",2,132815457912919504
+"D:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\consoles\db\8cc23256-e02c-43ea-8477-e740c4580b62\modular\2OppnaArendenIsocken.sql",2,132815415513203061
+"D:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\consoles\db\8cc23256-e02c-43ea-8477-e740c4580b62\modular\StatistikBeräkning\asd.sql",2,132814450870378989
+"D:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\EDPvisionRemote\output",2,132790992977802953
+"C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\default\.idea\dataSources.xml",2,132779739533564684
+"C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\consoles\db\2ca40bb3-aca4-412d-a610-84b4e5da6dbe\console_3.sql",2,132779257459618037
+"C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\consoles\db\8cc23256-e02c-43ea-8477-e740c4580b62\console_8.sql",2,132779257239811475
 "D:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\consoles\db\947f2b47-af0c-4354-9696-9462b1a4bf8b\ReningSearchINdex.sql",2,132778921576041964
 "D:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\Kv-Utsökning\.idea\dataSources",2,132775623894157200
 "D:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\Geosecma-Solen-Visoin-Vyer\.idea\dataSources",2,132775578616704007
@@ -47,36 +61,97 @@ Filename,Run Count,Last Run Date
 "E:\Programming(projects)\projectz\New folder",2,132575968398739972
 "C:\Users\crbk01\.DataGrip2019.3\config\projects\Geosecma-Solen-Visoin-Vyer\Sol-vision\sol21.csv",2,0
 "C:\Users\crbk01\.DataGrip2019.3\config\projects\Sql-harAns-kan\.history\harAnsökan_20200302134635.sql",2,0
-"C:\9dfe73ef\consoles\db\7e4fb899-0567-4da7-8a60-86bca3049c5c",1,132914860099122448
-"C:\9dfe73ef\consoles\.git",1,132914859732850736
-"C:\Users\crbk01\.opera\Scripts\Scripts2\.git",1,132914858481703981
-"C:\Users\crbk01\AppData\Local\GitHubDesktop\app-2.9.11\resources\app\git\mingw64\libexec\git-core",1,132914857342818954
-"C:\Users\crbk01\AppData\Local\GitHubDesktop\app-2.9.11\resources\app\static\gitignore\community\GNOME",1,132914857162231984
-"C:\Users\crbk01\AppData\Local\Temp\133724a4-e56c-4c17-9b75-f2bffb860a20",1,132914856545870795
-"C:\Users\crbk01",1,132914852076022045
-"C:\9dfe73ef\projects\Kvutsokning",1,132914849189667106
-"C:\9dfe73ef\consoles\db\eb59c975-b040-4d08-b4d5-c3f719a48ea4\lazy.log",1,132914848450579804
-"C:\Users\crbk01\AppData\Roaming\Microsoft\Windows\PowerShell\lazy.log",1,132914848415454160
-"C:\9dfe73ef\projects\Kvutsokning\.idea\lazy.log",1,132914846318723934
-"C:\9dfe73ef\projects\default\storage\lazy.log",1,132914846233401195
-"C:\9dfe73ef\projects\Livsmedel\.idea\lazy.log",1,132914846205763841
-"C:\Program Files\WindowsPowerShell\Modules\PSEverything\3.2.1\PSEverything.dll-Help.xml",1,132914843559848888
-"C:\9dfe73ef\consoles\db\7e4fb899-0567-4da7-8a60-86bca3049c5c\.idea\dataSources\7c36b93a-8e8d-4cff-8993-17267a5fb816\storage_v2\_src_\database\EDPVisionRegionGotland.iihdXg\schema",1,132914842268844846
-"C:\Users\crbk01\AppData\Local\Microsoft\Edge\User Data\Profile 2\Extensions\ojccgbnddompclhanijminmemionfofg\1.0_0\lazy.log",1,132914830936308196
-"C:\9dfe73ef\consoles\db\8cc23256-e02c-43ea-8477-e740c4580b62\.idea\dataSources\7c36b93a-8e8d-4cff-8993-17267a5fb816\storage_v2\_src_\database\EDPVisionRegionGotlandAvloppFiler.9EluxA\schema\add.log",1,132914829537032692
-"C:\9dfe73ef\projects\Solx\.idea\add.log",1,132914829249466478
-"C:\9dfe73ef\projects\Livsmedel\.idea\commit.log",1,132914783039121408
-"C:\Users\crbk01\.opera\Scripts\EspHeaderExport\add.log",1,132914781821929836
-"C:\9dfe73ef\projects\MapBasic\Mapbasic-CommonLib\commit.log",1,132914781262964497
-"C:\9dfe73ef\projects\MapBasic\Mapbasic-CommonLib\add.log",1,132914781226408922
-"C:\9dfe73ef\consoles\db\8cc23256-e02c-43ea-8477-e740c4580b62\.idea\FilterByHendelse\add.log",1,132914780990583266
-"C:\9dfe73ef\projects\MapBasic\MailOrganization\commonLib\commit.log",1,132914779882334945
-"C:\9dfe73ef\consoles\db\947f2b47-af0c-4354-9696-9462b1a4bf8b\.idea\add.log",1,132914779419867924
+"C:\Users\crbk01\AppData\Local\Google\Chrome\User Data\Default\Extensions\gbkeegbaiigmenfmjfclcdgdpimamgkj\132.137.139_0\scripts\lib\qowt\third_party\when\node_modules\browserify\test\field\node_modules",1,132870733144348950
+"C:\Users\crbk01\.vscode\extensions\ms-vscode.powershell-2021.12.0\modules",1,132870723876063372
+"D:\Project Shelf\PowerShellProjectFolder\.git\modules",1,132870723561414910
+"C:\Windows\System32\WindowsPowerShell\v1.0\Modules",1,132870722818561621
+"C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\consoles",1,132869829159048452
+"C:\Users\crbk01\AppData\Local\GitHubDesktop\app-2.9.5\resources\app\static\github.sh",1,132869775747605108
+"C:\Program Files\Git\mingw64\libexec\git-core\git.exe",1,132869774934019561
+"C:\Users\crbk01\AppData\Local\Microsoft\Edge\User Data\Default\Sync Data\SyncData.sqlite3",1,132866485960480137
+"D:\Users\crbk01\AppData\Roaming\Opera Software\Opera GX Stable\History",1,132866483647956613
+"C:\Users\crbk01\AppData\Local\Microsoft\Edge\User Data\Default\Bookmarks",1,132866471263709842
+"C:\Users\crbk01\AppData\Local\Packages\Microsoft.Todos_8wekyb3d8bbwe",1,132866277450929240
+"D:\.DataGrip2019.1\config\scratches\New folder\sql-SaraStatisticsVisionVsMitt",1,132862813763190179
+"C:\Users\crbk01\.DataGrip2019.3\config\projects\Solen-Visoin-Vyer\Innan Databas övergång gamlla vyer\storage",1,132862809299733562
+"C:\Users\crbk01\.DataGrip2019.3\config\projects\Kv-FlaggGenerering",1,132862804565906734
+"C:\Users\crbk01\AppData\Local\GitHubDesktop\app-2.9.6\resources\app\git\mingw64\libexec\git-core\git-lfs.exe",1,132850804500970792
+"C:\Windows\WinSxS\amd64_microsoft-windows-s..english-autocorrect_31bf3856ad364e35_10.0.19041.1_none_c2369391ad47881f\MsSp7en-GB.acl",1,132841263110193600
+"C:\Users\crbk01\AppData\Roaming\Microsoft\Spelling\en-GB\default.acl",1,132841262947345729
+"C:\Users\crbk01\AppData\Roaming\Microsoft\Office\MSO2057.acl",1,132841252828990322
+"C:\Windows\Globalization\ELS\SpellDictionaries\MsSp7en-GB.acl",1,132841252035728912
+"D:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\ListAggregation\.idea\dataSources.xml",1,132839451229119459
+"C:\Users\crbk01\AppData\Local\Packages\Microsoft.Todos_8wekyb3d8bbwe\LocalState\AccountsRoot\2548e962ae4b482ebfcd23a150a42988\todosqlite.db",1,132839421012539140
+"D:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\ListAggregation",1,132838638434480754
+"D:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\consoles\db\9bf5f6bc-10c6-4831-8b5e-6c51fbeae781",1,132838634946410642
+"C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\consoles\db\7e4fb899-0567-4da7-8a60-86bca3049c5c\VisionH-ndelserToEasyRead\LatestHandelse(harAnsokan)",1,132838620789935248
+"D:\.DataGrip2019.1\config\config\proj\Geosecma-Solen-Visoin-Vyer\Sol-vision",1,132838619281136222
+"D:\.DataGrip2019.1\config\proj\Geosecma-Solen-Visoin-Vyer\Innan Databas övergång gamlla vyer",1,132838580536174512
+"C:\Users\crbk01\AppData\Local\Temp\TortoiseGit\CreateOriginalListFIlter-d760fd75.000.sql",1,132838568587926733
+"D:\OnGithub\To Vision, GDPR cleanup\Attribut_i_avloppsskiktet (1).docx",1,132834278483704969
+"D:\Project Shelf\RegionGotland\Hjälpa Carin\carin - förbud 2 vt18.rar\carin - förbud 2 vt18\carin - förbud 2 vt18.rar\Uppföljning meddelat tillstånd_2018-04.docx",1,132834275999602985
+"D:\Project Shelf\RawData\OldJobbRelaterat\LevaGrejer\DelatMedChristoffer\gammalt\Mor To Excel\frädigt\xInventories.9.docx",1,132834271861106581
+"D:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\EDPvisionRemote\output\output\TillMinaMedelanden",1,132833583980957846
+"D:\PortableApps\2. file Organization\PortableApps\advanced_renamer_portable",1,132833575630872087
+"D:\Project Shelf\RegionGotland\MapBasic\Mapbasic-CommonLib\.git",1,132833575000016052
+"D:\PortableApps\4, windows enhance\PortableApps\AutoHotkeyPortable\Data\modular\openInVscode.ahk",1,132820436032180093
+"D:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\consoles\db\8cc23256-e02c-43ea-8477-e740c4580b62\modular\StatistikBeräkning\matchaFilerTillArenden.sql",1,132815415248646959
+"D:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\consoles\db\2ca40bb3-aca4-412d-a610-84b4e5da6dbe\20201112Flaggor\VisionUtsökningMedHändelseÄrendeSocken(usökningkv2020-11)2.sql",1,132814505811036717
+"D:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\consoles\db\2ca40bb3-aca4-412d-a610-84b4e5da6dbe\CallFunction\CallFörbudsutsök.sql",1,132814452950799832
+"D:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\consoles\db\58e93225-fbe8-4239-b061-0a7800085c08\bulkinsert\BulkInsert.sql",1,132814450484829806
+"D:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\consoles\db\947f2b47-af0c-4354-9696-9462b1a4bf8b\Kv-FlaggGenerering\Modular\bulkInsertWholeFile.sql",1,132814450303999693
+"D:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\consoles\db\8cc23256-e02c-43ea-8477-e740c4580b62\select vwAehAerende ÄrendenKlartVattenårX.sql",1,132814439226754580
+"C:\Users\crbk01\AppData\Local\Microsoft_Corporation\powershell_ise.exe_StrongName_lw2v2vm3wmtzzpebq33gybmeoxukb04w\3.0.0.0\AutoSaveFiles\AutoSaved_29e65e44-0974-4ddd-9884-fe1b81fb4a44_Untitled2.ps1",1,132814388688865871
+"D:\Project Shelf\PowerShellProjectFolder\json\UnnestJson.ps1",1,132814388517793633
+"D:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\consoles\db\2ca40bb3-aca4-412d-a610-84b4e5da6dbe",1,132814379221612179
+"C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\consoles\db\7d5de95f-aea3-4ba4-ade7-92a9d0e7d952\Sol-Vision\VisionUtsökningMedHändelseÄrendeSocken(usökningkv2020-11)2.sql",1,132814376320523664
+"D:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\consoles\db\8b7c273a-baa2-4933-a5d5-4862e23c0af2\TillMinaMedelanden1\TillMinaMedelanden\synonyms.sql",1,132814367720511903
+"C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\consoles\db\8cc23256-e02c-43ea-8477-e740c4580b62\modular\1SocknarOfIntresse2.sql",1,132808403456416276
+"D:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\consoles\db\5b682ee5-608b-4b16-bdfd-1132a4a5566f\Kvutsökning\1.sql",1,132808403267148429
+"D:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\consoles\db\5b682ee5-608b-4b16-bdfd-1132a4a5566f\Kvutsökning\5.sql",1,132808403164544472
+"D:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\consoles\db\947f2b47-af0c-4354-9696-9462b1a4bf8b\Kv-FlaggGenerering\Modular\SockenSelection.sql",1,132808402919779776
+"C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\extensions\com.intellij.database\data\extractors\CSV-Groovy.csv.groovy",1,132804240411458006
+"C:\Users\crbk01\AppData\Local\Microsoft\Edge\User Data\Profile 2\load_statistics.db",1,132798941976826000
+"C:\Users\crbk01\OneDrive - Region Gotland\Games\POE-TradeMacro_backup\resources\ahk\TradeMacro.ahk",1,132797072122753721
+"D:\PortableApps\4, windows enhance\PortableApps\AutoHotkeyPortable\Data\AutoHotkey.ahk",1,132796272350753583
+"D:\.DataGrip2019.1\config\consoles\db\b60a2110-aad1-451e-a8e8-20c26aa01e69\create_view_considercorrecting_as_with_.sql",1,132796251253187757
+"D:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\EDPvisionRemote\output\TillMinaMedelanden",1,132791036434434038
+"D:\Project Shelf\MapBasic\MapinfoSkikt",1,132791035038189009
+"D:\Unsorted\Empty",1,132791034738059461
+"D:\Users\crbk01\.vscode\.vscode\extensions\wengerk.highlight-bad-chars-0.0.5\node_modules\call-bind",1,132791033382577840
+"C:\Users\crbk01\AppData\Local\Temp\fc956ef0-16a0-439d-a9a9-dcff323a1cfc",1,132791033145123898
+"D:\.DataGrip2019.1\config\projects\NyckelTal\.idea",1,132790359076188767
+"C:\Users\crbk01\.DataGrip2019.3\config\projects\Solen-Visoin-Vyer\Sol-vision\.idea",1,132790353981713760
+"D:\.DataGrip2019.1\config\projects\Ditto Db parsing\.idea\dataSources.xml",1,132790338941796825
+"C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\ListAggregation\.idea\dataSources.xml",1,132790338763309323
+"C:\Users\crbk01\.DataGrip2019.3\config\projects\CsvArtistMerge\.idea\dataSources.xml",1,132790338531707228
+"D:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\consoles\db\5b682ee5-608b-4b16-bdfd-1132a4a5566f\FnrToAdress\.idea\dataSources.local.xml",1,132787847661528662
+"D:\OnGithub\AutoHotkey\projects\Geosecma-Solen-Visoin-Vyer\.idea",1,132787841405734907
+"C:\Users\crbk01\AppData\Roaming\Scooter Software\Beyond Compare 4\BC4Key.txt",1,132786724513743902
+"C:\Users\crbk01\.DataGrip2019.3\config\projects\bcompare",1,132786723822396163
+"D:\Documents\WindowsPowerShell\Scripts\TextTransformation\TransformBcomparePrintToEverythingFileList.ps1",1,132786723553551580
+"D:\Notebooks\.gitconfig",1,132786717982377793
+"C:\Users\crbk01\Desktop\OnGithub\gitConfigsToAddAsSubmodules.txt",1,132786711614387439
+"D:\Project Shelf\MapBasic\MapinfoSkikt\UrsprungsFastigheterMedSockenOc",1,132785252122202016
+"D:\Users\crbk01\AppData\Roaming\Opera Software\Opera GX Stable\Bookmarks",1,132784186646782138
+"C:\Users\crbk01\AppData\Local\Microsoft\Edge\User Data\Profile 1\Bookmarks",1,132784186046454128
+"C:\Users\Administratör\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1",1,132784160313055875
+"D:\Project Shelf\PowerShellProjectFolder\powerShellProjectFolder.code-workspace",1,132784152070783502
+"D:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\Kv-FlaggGenerering\.idea\dataSources\947f2b47-af0c-4354-9696-9462b1a4bf8b",1,132781575189680574
+"D:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\Geosecma-Solen-Visoin-Vyer\Sol-vision\.idea\dataSources.xml",1,132781560252178144
+"D:\.DataGrip2019.1\config\consoles\db\e763f48c-b1d7-4395-81fa-167e2f3e7a9f\console.sql",1,132779751982415923
+"D:\DatagripRecoveredFiles\console_1.sql",1,132779258200831714
+"C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\consoles\db\5dd5ec07-b71c-48de-8aab-4cfa43540e71\console_11.sql",1,132779258013420972
+"D:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\consoles\db\2ca40bb3-aca4-412d-a610-84b4e5da6dbe\console.sql",1,132779257829753845
+"C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\consoles\db\2ca40bb3-aca4-412d-a610-84b4e5da6dbe\console.sql",1,132779257632252827
+"D:\.DataGrip2019.1\config\consoles\db\08916946-d7d3-48c8-a276-f457c60b6231\console.sql",1,132779257312951491
+"D:\DatagripRecoveredFiles\console_3.sql",1,132779256901730560
+"D:\Documents\WindowsPowerShell\Scripts\Microsoft.PowerShellISE_profile.ps1",1,132779245574471977
+"D:\Documents\WindowsPowerShell\Scripts\filesystem\OrganizeFbyExtension.ps1",1,132779088207132065
+"D:\PortableApps\2. file Organization\PortableApps\Everything\Everything.ini",1,132778957290033555
 "D:\PortableApps\2. file Organization\PortableApps\Beyond Compare 4\BCSessions.xml.bak",1,132778956176666060
-"C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\default\.idea\dataSources.xml",1,132778933909508625
 "C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\default\.idea\sqldialects.xml",1,132778923414061630
 "D:\Users\crbk01\.DataGrip2019.5\config\proj\Kv-FlaggGenerering",1,132775665626382379
-"D:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\Vision-Fil-Insert",1,132775663972224914
 "D:\Project Shelf\G-sbfLivsmiljö-Gemensamt-mapbasic program projekt\Automatisera Utsökning för utskick",1,132775662716005403
 "D:\Users\crbk01\.DataGrip2019.5\config\proj\Kv-Utsökning",1,132775661893977050
 "D:\Users\crbk01\.DataGrip2019.4\config\projects\projects\Kv-Utsökning\LatestHandelse(harAnsokan)",1,132775660850100024
@@ -117,7 +192,6 @@ Filename,Run Count,Last Run Date
 "C:\Windows.old\WINDOWS",1,132765941345297317
 "C:\Users\crbk01\AppData\Roaming\sourcery",1,132765936710273543
 "C:\Users\crbk01\.DataGrip2019.3",1,132765186513653552
-"C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1",1,132764783710238687
 "C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\Kv-FlaggGenerering\.idea\shelf",1,132759971680833047
 "C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\Kv-FlaggGenerering\.idea\dataSources\027c2d16-67ba-4eeb-837e-f99b41e4c813",1,132757566294425055
 "C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\Geosecma-Solen-Visoin-Vyer\Sol-vision\sol21.csv",1,132757565567775727
