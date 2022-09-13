@@ -1,24 +1,18 @@
 Search,Search Count,Last Search Date
-"wholefilename:child:"".git"" !temp\",11,132869828140650574
-"config\consoles\db !folder: content:""char""",10,132838611334916316
-"!\$",7,132778975248133795
+"config\consoles\db !folder: content:""char""",8,132582489854877681
+"<child:.vscode|child:.git|child:.idea> !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$ ",7,132914875429253503
 "< ""E:\Programming(projects)\Sql\consoles\db"" | config\consoles\db >  !folder: content:union",7,132757568936511522
 "!E:\$ ext:ahk ",7,132594747358875743
 """E:\ToDatabase\"" !""E:\ToDatabase\Json\ImageMetaData\""",7,132576890313389041
-"wholefilename:child:"".git""",6,132862803993118580
-"path:dataGrip path:projects dataSources.xml",6,132839449820409249
+"!\$",6,132778934787714560
 "E:\Pictures\",6,132594246633442386
 "!D: !E:\$ !C:\$  < bak | ~ | ""("" > !attribute:L !E:\SteamLibrary\Modding\VortexDownload\ !E:\ToDatabase\Sqlite\ !E:\ToDatabase\Json\",6,132582573879919805
 ":\$RECYCLE.BIN",6,132571054206010835
-"regex:child:""^[.]idea$"" !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$ ",5,132839449650615821
 "~",5,132757557243445777
 "regex:child:""^[.]git$"" !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$",5,132594264902603580
-"<child:.vscode|child:.git|child:.idea> !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$ ",5,132588131817076697
 "<wildcards:diacritics:"".~*""> E:\  !folder: !E:\$",5,132587436601077901
 "regex:child:""^[.]git$""",5,132578902095764684
-"ext:dbf;mdb;adt;wab;vcs;dbb;sav;wk1;wq1",4,132868332732039889
-"data.sqlite",4,132868300079203172
-"wfn:bookmarks ext:",4,132866470586559691
+".git\config !folder:",4,132990888343318053
 "C:\",4,132754926889171078
 "regex:child:""^.*[.]code-workspace$"" !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$ ",4,132594740220561423
 "E:\Pictures\ x\",4,132594248493509866
@@ -26,9 +20,7 @@ Search,Search Count,Last Search Date
 "config\consoles\db !folder:",4,132579081964585195
 """E:\Programming(projects)\projectz\"" ",4,132576412466268030
 "parent:c\windows\system32 *.e",4,132570947689353278
-"wfn:history ext:",3,132866490436115045
-"!\$ console",3,132779748157361108
-"everything",3,132779041548810560
+"ext:ahk count:1",3,132978562276713788
 """C:\Users\crbk01\AppData\Local\Packages"" Microsoft.Office.OneNote_8wekyb3d8bbwe",3,132754888922796665
 "ext:sqlite !\$ \todatabase\",3,132593721950795214
 "E:\ToDatabase\Sqlite\ !folder: ext:sqlite !-",3,132593697427768662
@@ -41,24 +33,22 @@ Search,Search Count,Last Search Date
 "folder:wildcards:sizedupe:!(dmdupe:)!(infolder:E:\*RECYCLE*) size:huge..gigantic ",3,132571071310631689
 "sizedupe:size:huge..gigantic",3,132571054225396488
 "parent:""E:\PortableApps"" *.exe",3,132570949993910204
-"fanny",2,132860197538805228
-"""C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\consoles\db\49f168c8-015c-43d2-b9f4-06de275bdc15\select\utbyte"" ",2,132842216248526028
-"!C:\Users\crbk01\AppData\Local\Temp\TortoiseGit\ !C:\",2,132838583862507038
-"""C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\default\.idea\"" !\.git content:5b682ee5-608b-4b16-bdfd-1132a4a5566f",2,132838581523981256
-"ext:ps1 utf8content:expose",2,132814430041084277
-"!C:\ path:console 2ca40bb3-aca4-412d-a610-84b4e5da6dbe ",2,132814425614099606
-"path:consoles\db\ content:""xml""",2,132793773152554131
-"""D:\Unsorted\Empty\"" dir:",2,132791235760996156
-"path:dataGrip path:projects child:.idea",2,132790991027240339
-"dataSources !esri !empty ext:xml",2,132790227512767814
-"powershell",2,132790227501784767
-"fastigheter",2,132790227489436199
-"path:sql setup.exe",2,132790227465259210
-"dataSources dir:",2,132787846686129712
-"path:dataGrip path:projects dataSources.xml content:admsql01",2,132781453851829972
-"ext:ps1",2,132779085977446489
-"""C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\"" ext:xml content:6f5acbc7-c2be-4b8b-a77a-ea78581ca491",2,132779042440322374
-"""C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\"" ext:xml content:947f2b47-af0c-4354-9696-9462b1a4bf8b ",2,132778974780952895
+"\modules PackageManagement",2,132998723128123492
+"powershell-b",2,132998723120957703
+"itextsharp",2,132998723093763640
+"commandLine|ConsoleHost_history ext:txt",2,132997748499030376
+"regex:""\data\*.ahk""",2,132995851493828813
+"C:\Users\crbk01\AppData\Local\Microsoft\Edge\User Data\Default\",2,132990857347942053
+"consoleHost ext:txt",2,132990855012628801
+"runconf",2,132975033066424697
+"ext:pdf",2,132974485308716198
+"workspace ps1",2,132967431726446066
+"dataSources dir:",2,132931017236563036
+"path:runconf ext:xml",2,132926056824110708
+"wildcards:child:*.git",2,132925976164302668
+"wholeword:child:.git !C:\users\Crbk01\AppData\Local\Temp",2,132914875916426598
+"ext:log datecreated:today",2,132914846075741670
+"child:"".git""",2,132914842246111060
 "flagg dir:",2,132775666133607140
 "!\$ !""\.history""",2,132772945062189691
 "!dir:",2,132772076760932106
@@ -83,7 +73,6 @@ Search,Search Count,Last Search Date
 "E:\Pictures\unsorted\",2,132590979730969622
 "E:\pictures\x\internet\",2,132590977283620219
 "E:\SteamLibrary\steamapps\workshop\content\221380\ folder: !""E:\SteamLibrary\steamapps\workshop\content\221380\281802458"" parents:6",2,132588622459996755
-".git\config !folder:",2,132588348587279699
 """config""",2,132588323806781332
 "age of empires",2,132588193454831112
 "<child:.vscode|child:.git|child:.idea|regex:child:""^.*[.]code-workspace$""> !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$ ",2,132588135197187032
@@ -102,121 +91,72 @@ Search,Search Count,Last Search Date
 "Razer",2,132577091223552854
 "E:\ child:.git",2,132575941070310159
 "sizedupe:",2,132570998931505517
-"php",1,132870518345458494
-"wholefilename:child:"".git"" !temp\ comp",1,132869777844947389
-"ext:sh",1,132869775338692208
-"git.cmd|git.exe",1,132869774892067339
-"ext:",1,132866491428433216
-"ext:"""";dbf;mdb;adt;wab;vcs;dbb;sav;wk1;wq1 !""C:\Users\crbk01\OneDrive - Region Gotland\Games""",1,132865651309721531
-"ext:dbf;mdb;adt;wab;vcs;dbb;sav;wk1;wq1 !""C:\Users\crbk01\OneDrive - Region Gotland\Games""",1,132865649935491325
-"d: ext:exe",1,132863810543410272
-"ext:sql content:(1) !C:\",1,132863016397748397
-"ext:sql content:stx !C:\",1,132863013821926260
-"ext:sql content:3015 !C:\",1,132863011623184262
-"ext:sql content:Shape !C:\",1,132863010447335126
-"ext:sql content:sde",1,132863004245617351
-"ext:sql content:sde.st_astext",1,132863004151279597
-"ext:sql content:bulk content:csv",1,132862915751044918
-"""c:\users\crbk01\appdata"" dir:",1,132859850851668002
-"""c:\users\crbk01\appdata""",1,132859850249157412
-"""c:\users\crbk01\""",1,132859849983548891
-"microsoft.office.interop.excel.dll",1,132858492879150468
-"msexce",1,132858489055957027
-"""C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\consoles\db\49f168c8-015c-43d2-b9f4-06de275bdc15\HandToAr"" ",1,132842216313630861
-"""C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\consoles\db\49f168c8-015c-43d2-b9f4-06de275bdc15\HandToAr\"" ",1,132842216139158818
-"""C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\consoles\db\49f168c8-015c-43d2-b9f4-06de275bdc15\select\Huvudkontakt"" ",1,132842191860402865
-"""C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\consoles\db\49f168c8-015c-43d2-b9f4-06de275bdc15\Pseudo\call"" ",1,132842190568837379
-"""C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\consoles\db\49f168c8-015c-43d2-b9f4-06de275bdc15\Pseudo\FelAdress"" ",1,132842189756833628
-"""C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\consoles\db\49f168c8-015c-43d2-b9f4-06de275bdc15\Pseudo\main"" ",1,132842188472870526
-"""C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\consoles\db\49f168c8-015c-43d2-b9f4-06de275bdc15\Pseudo\SkapaH"" ",1,132842185572060909
-"""C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\consoles\db\49f168c8-015c-43d2-b9f4-06de275bdc15\Pseudo\Updatera\"" ",1,132842183729430997
-"""C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\consoles\db\7c36b93a-8e8d-4cff-8993-17267a5fb816\Replace FilKoppling\"" ",1,132842057406393099
-"ext:acl",1,132841251562391930
-"TortoiseGitPuttyKey.ppk",1,132839530124384728
-"oledb",1,132839518004065349
-"C:\Users\crbk01\AppData\Local\Packages\Microsoft.Todos ext:db",1,132839420985217994
-"C:\Users\crbk01\AppData\Local\Packages\Microsoft.Todos",1,132839414498825349
-"regex:child:""^[.]idea$"" !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$ !2019.3\ !2019.1\ !C:\ !\RegionGotland\ !\OnGithub\AutoHotkey\projects\ !\.vscode\",1,132838638392620108
-"regex:child:""^[.]idea$"" !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$ !2019.3\ !2019.1\ !C:\ !\RegionGotland\ !\OnGithub\AutoHotkey\projects\",1,132838626448450536
-"regex:child:""^[.]idea$"" !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$ !2019.3\ !2019.1\ !C:\ !\RegionGotland\",1,132838625977872797
-"regex:child:""^[.]idea$"" !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$ !2019.3\ !2019.1\ !C:\",1,132838622252950780
-"regex:child:""^[.]idea$"" !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$ !2019.3\ !2019.1\",1,132838621643508905
-"!C:\ path:sql path:dataGrip utf8content:""gotlandfiler""",1,132838618435335227
-"!C:\Users\crbk01\AppData\Local\Temp\TortoiseGit\ !C:\ !""\Users\crbk01\.DataGrip2019.3\consoles\"" !""\Users\crbk01\.DataGrip2019.3\projects\""",1,132838589533180587
-"!C:\Users\crbk01\AppData\Local\Temp\TortoiseGit\ !C:\ !""\Users\crbk01\.DataGrip2019.3\consoles\""",1,132838584180348662
-"""C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\"" !\.git  ext:xml content:7e4fb899-0567-4da7-8a60-86bca3049c5c",1,132838583343691930
-"""C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\default\.idea\"" !\.git  ext:xml",1,132838581963292172
-"ext:docx",1,132834271658536801
-"open in vscode",1,132820435986066606
-"!C:\ ext:sql path:dataGrip path:console utf8content:""gotlandfiler""",1,132815459374405177
-"!C:\ ext:sql path:dataGrip path:console utf8content:""filer""",1,132815457833457800
-"!C:\ ext:sql path:dataGrip path:console utf8content:""strFnrID is null""",1,132815415225476121
-"!C:\ ext:sql path:dataGrip path:console utf8content:<sp_executesql'",1,132815414904723275
-"!C:\ ext:sql path:dataGrip path:console utf8content:sp_executesql",1,132814505779867593
-"!C:\ ext:sql path:dataGrip path:console utf8content:exec",1,132814452918672176
-"!C:\ ext:sql path:dataGrip path:console utf8content:bulk",1,132814450258144780
-"VWAEHAERENDE",1,132814438750618890
-"!C:\ ext:sql path:dataGrip path:console utf8content:socken",1,132814428130351201
-"path:console 2ca40bb3-aca4-412d-a610-84b4e5da6dbe ",1,132814379198334736
-"2ca40bb3-aca4-412d-a610-84b4e5da6dbe",1,132814379008143013
-"!C:\ ext:sql path:dataGrip path:console utf8content:AdressCorrection",1,132814378453150863
-"!C:\ ext:sql path:dataGrip path:console utf8content:20201112Flaggor",1,132814377845440796
-"ext:sql path:dataGrip path:console utf8content:20201112Flaggor",1,132814376198079569
-"path:dataGrip path:console utf8content:vwAehAerende utf8content:alias",1,132814367186805037
-"ditto",1,132805825830912537
-"path:<jetBrains|datagrip> csv",1,132804240352300157
-"System.Xml.ReaderWriter.dll",1,132799710974102854
-"path:trello !ext:one",1,132798912445093847
-"trello",1,132798912104689461
-"config\consoles\db !folder: content:""open""",1,132796251183753528
-"config\consoles\db !folder: content:""xml""",1,132793768605981019
-"ext:sql !\$",1,132791236050469292
-"""C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\consoles\db\7e4fb899-0567-4da7-8a60-86bca3049c5c\Kvutsökning\TillMinaMedelanden\"" ",1,132791164910819804
-"""D:\Unsorted\""  dir:",1,132791070551036862
-"""D:\Unsorted\"" ",1,132791070451981414
-"""D:\Unsorted\Empty\"" ",1,132791069133750891
-"runscript ext:xml",1,132790989334244191
-"path:dataGrip path:projects child:dataSources.xml",1,132790353949733344
-"!esri !empty ext:iml",1,132790228830452388
-"dataSources !C: !esri !empty ext:xml",1,132787847307475835
-"dataSources dir: !C:",1,132787846783645093
-"datasou",1,132787846618029556
-".idea dir: !empty: !C:",1,132787841936029106
-".idea dir: !empty:",1,132787841319943558
-".idea dir:",1,132787840767780179
-"BC4key",1,132786724499097726
-"bcomp",1,132786723321841811
-"gitconfig",1,132786711463149739
-"infolder:""C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\consoles\db\5b682ee5-608b-4b16-bdfd-1132a4a5566f\""",1,132785232000108625
-"Microsoft.PowerShell_profile.ps1",1,132784160297214222
-"bookmarks",1,132783736753015980
-"947f2b47-af0c-4354-9696-9462b1a4bf8b dir:",1,132781563773656447
-"947f2b47-af0c-4354-9696-9462b1a4bf8b",1,132781563388013960
-"path:dataGrip path:projects dataSources.xml content:947f2b47-af0c-4354-9696-9462b1a4bf8b",1,132781560212769540
-"path:dataGrip path:projects dataSources.xml content:admsql01<",1,132781453498280194
-"ext:code-workspace",1,132779907330810663
-"ext:ps1;ps2 !\.vscode profile",1,132779246787862809
-"ext:ps1 !\.vscode profile",1,132779238928934216
-"ext:ps1 !\.vscode",1,132779088054050922
-"path:dataGrip path:projects datas",1,132779049202272715
-"path:dataGrip path:projects datasource.xml",1,132779049121450380
-"path:dataGrip path:projects path:console",1,132779048961682037
-"path:dataGrip path:projects",1,132779048734084520
-"dataGrip projects dataSources",1,132779048226917787
-"dataGrip projects dataSources.xml",1,132779048174380996
-"dataGrip*projects*dataSources.xml",1,132779048081470182
-"wildcards:path:dataGrip*projects*dataSources.xml",1,132779047607443463
-"wildcards:path:dataGrip*projects  dataSources.xml",1,132779047546097529
-"path:DataGrip projects  dataSources.xml",1,132779047363683815
-"DataGrip projects  dataSources.xml",1,132779047306031656
-"DataGrip ""projects\"" dataSources.xml",1,132779047227155858
-"DataGrip ""projects\""""dataSources.xml",1,132779047167125016
-"DataGrip ""projects\"" ""dataSources.xml"" ",1,132779047060563928
-"""C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\"" dataSources.xml content:cbde40e1-0091-4576-9aa8-1c7aeb5086a4",1,132779046515449133
-"""C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\"" ext:xml content:cbde40e1-0091-4576-9aa8-1c7aeb5086a4",1,132779046244796239
-"path:<b|<beyond >>compare",1,132778957070368455
+"countedUniqueLinesSorted",1,132998641904537251
+"commandLine ext:txt",1,132997632705703492
+"tortoiseGit ext:exe",1,132997593982899915
+"carotdav",1,132997568781500990
+"PackageManagement",1,132996872175493516
+"diskmgmt.msc",1,132995908213196492
+"ConsoleHost_history",1,132995826276383442
+"ext:txt content:ConvertTo-Csv",1,132990854799054351
+"\edge bookmarks",1,132990774127489346
+"edge bookmarks",1,132990774064201443
+"count:1 ext:ahk",1,132979492091543348
+"count:1",1,132978581178560528
+"ext:ahk limit:1",1,132978558816528209
+"rescu",1,132978542214772605
+"ext:sql socken",1,132977840102388827
+"353930385F32303330343230393630",1,132977683034192073
+"\runconf ext:xml",1,132975033689596479
+"json ext:ps1",1,132974493681175216
+"ext:sqlnb",1,132972517821160844
+"union ext:ps1",1,132969402825163021
+"menu",1,132969379373322597
+"nuget",1,132969377559245935
+"'C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\.git\modules\consoles\modules\db\modules\'",1,132967429651075999
+"sp13",1,132966407499695325
+"casls",1,132966407302011697
+"ext:psd1 content:""NestedModules = @('""",1,132960555560915048
+"ext:psd1",1,132960554218379161
+".git/ content:3eccb07",1,132959864790049615
+"ext:pst",1,132956075989868220
+"path:scriptBrowser\ ext:dll",1,132942254091916901
+"path:Browser\ ext:dll",1,132942253972586086
+"scriptbr",1,132942253434150424
+"System.Windows.Interactivity.dll",1,132942242547977058
+"ditto exe",1,132942199315363455
+"System.Data.SQLite.dll",1,132937243229140914
+"bookmarks",1,132931142818066631
+"ext:code-workspace",1,132930992568436915
+"ini ext:ps1",1,132930156306698511
+"wildcards:child:*.ahk \data\",1,132925977016809265
+"dataSources ext:xml;~xml",1,132925919956920903
+"repository",1,132925061456576365
+"ext:dll SQLite",1,132925029671058356
+"D:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\ dir: empty:",1,132924653457810430
+"D:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\ ",1,132924647681214537
+"D:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\ ext:sql",1,132924646913235854
+"path:ext:csv !\oneDrive !\program !\portable !\windows !\appdata !\arcgis !\$",1,132923464019076032
+"path:ext:csv !\oneDrive !\program !\portable !\windows !\appdata !\arcgis",1,132923462435435583
+"path:ext:csv !\oneDrive !\program",1,132923461552726675
+"path:ext:csv !\oneDrive",1,132923461206946654
+"path:ext:docx !\oneDrive",1,132923458912959142
+"ext:doc",1,132923457295911429
+"<wholefilename:child:.git file:>|<wholefilename:child:.git folder:> !C:\users\Crbk01\AppData\Local\Temp",1,132914860095133129
+"child:<wholefilename:.git file:>|<wholefilename:.git folder:> !C:\users\Crbk01\AppData\Local\Temp",1,132914859730329400
+"wholefilename:.git !C:\users\Crbk01\AppData\Local\Temp",1,132914858462511100
+"child:.git !C:\users\Crbk01\AppData\Local\Temp",1,132914857159622907
+"wildcards:child:.git",1,132914852052974227
+"<wildcards:*.git>",1,132914849691707725
+"<child:.git>",1,132914849187546137
+"lazy.log datecreated:today",1,132914846202745425
+"every",1,132914843535106903
+"child"".git""",1,132914841808490351
+"ext:log",1,132914779798265408
 "session",1,132778956106783157
 "bcompare",1,132778955115194862
+"""C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\"" ext:xml content:947f2b47-af0c-4354-9696-9462b1a4bf8b ",1,132778950796982632
+"""C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\default\.idea\"" !\.git content:5b682ee5-608b-4b16-bdfd-1132a4a5566f",1,132778922951083057
 """C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\default\.idea\"" ",1,132778922067383282
 """C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\Geosecma-Solen-Visoin-Vyer\.idea\dataSources\"" ",1,132778916066565213
 "utsökning dir:",1,132775665222291976
@@ -259,6 +199,7 @@ Search,Search Count,Last Search Date
 """C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\""",1,132757565547281536
 "path:default",1,132757558284538318
 "default",1,132757557915807895
+"everything",1,132755806073221027
 "wholefilename:config",1,132755802546471643
 "config ext:",1,132755801761862220
 "size:41bite",1,132755775533327799
@@ -278,6 +219,7 @@ Search,Search Count,Last Search Date
 """D:\Users\crbk01\AppData\Local\Microsoft\"" folder: parents:6",1,132754913765196542
 """C:\Users\crbk01\AppData\Local\Microsoft\"" folder: parents:6",1,132754911828157003
 "ext:ps1 link",1,132754879558348424
+"ext:ps1",1,132754878926659661
 """C:\Users\crbk01\AppData\Local\Packages"" ",1,132754871831783131
 """C:\Users\crbk01\AppData\Local\Packages\"" dir:",1,132754870807915397
 "size:>10mb",1,132754863908664026
@@ -518,7 +460,6 @@ Search,Search Count,Last Search Date
 "E:\ToDatabase\",1,132576890753929034
 "regex:child:""[.]git$""",1,132575966657749438
 "regex:child:""[.]git""",1,132575966498420129
-"child:"".git""",1,132575965549130229
 """.git""",1,132575941716716609
 "arena",1,132575674950953711
 "!D: !E:\$ !C:\$  < bak | ~ | ""("" > !attribute:L !E:\SteamLibrary\Modding\VortexDownload\",1,132575647133184626
