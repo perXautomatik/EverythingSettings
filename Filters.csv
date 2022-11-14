@@ -1,7 +1,6 @@
 Name,Case,Whole Word,Path,Diacritics,Regex,Search,Macro,Key
 "EVERYTHING",0,0,1,0,0,"!<""OneDrive - Region Gotland\Games\""|""OneDrive - Region Gotland\Documents\Videos\""|""\.git\objects\""> !$","everything",
 "EVERYTHING(createdToday)",0,0,0,0,0,"datecreated:today","ctoday",
-"Everything(excluding Onedrive and $)",0,0,0,0,0,"!\onedrive !\$",,
 "EVERYTHING(Absolutely)",0,0,0,0,0,"",,
 "EVERYTHING(exclude installer)",0,0,1,0,0,"!< instal | setup | uninst | cache | update | crash >",,
 "EVERYTHING(LargestNotAccessedPastYear)",0,0,0,0,0,"size:>tiny !<dateaccessed:""past1years"">",,
