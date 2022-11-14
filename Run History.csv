@@ -1,4 +1,5 @@
 Filename,Run Count,Last Run Date
+<<<<<<< Updated upstream
 "C:\Users\crbk01\.DataGrip2019.3\config\consoles\db\027c2d16-67ba-4eeb-837e-f99b41e4c813\selectFromsde_geofir_gotland.gng.READDRESS.sql",4,0
 "D:\Users\crbk01\.DataGrip2019.5\config\proj\Kv-Utsökning\FnrToAdress",3,132775664458998406
 "D:\Users\crbk01\.DataGrip2019.5\config\proj\Kv-Utsökning\.idea\dataSources",3,132775578704323995
@@ -2188,3 +2189,13 @@ Filename,Run Count,Last Run Date
 "C:\Windows\System32\WindowsPowerShell\v1.0\Modules\VpnClient",1,0
 "C:\Windows\System32\winevt\Logs\Microsoft-Windows-VPN%4Operational.evtx",1,0
 "Filename",0,0
+=======
+"C:\Program Files\Black Tree Gaming Ltd\Vortex\Vortex.exe",6,133116402089957138
+"C:\Program Files\Black Tree Gaming Ltd\Vortexy\Vortex.exe",2,133119866137302182
+"C:\Program Files\Recuva",1,133128951418597956
+"C:\Users\Användaren\AppData\Roaming\Scooter Software\Beyond Compare 4",1,133050607264545987
+"C:\Users\Användaren\AppData\Local\Microsoft\Edge\User Data\gist\latinx",1,133050602983425129
+"C:\Program Files (x86)\JetBrains\DataGrip 2022.1.1",1,133045942253882155
+"C:\Program Files (x86)\Synology",1,133045539884158610
+"C:\ProgramData\Synology",1,133045539789664396
+>>>>>>> Stashed changes
