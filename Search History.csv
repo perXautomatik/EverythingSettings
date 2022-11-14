@@ -12,6 +12,7 @@ Search,Search Count,Last Search Date
 "<child:.vscode|child:.git|child:.idea> !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$ ",5,132588131817076697
 "<wildcards:diacritics:"".~*""> E:\  !folder: !E:\$",5,132587436601077901
 "regex:child:""^[.]git$""",5,132578902095764684
+"ext:ps1",4,132915881487069702
 "C:\",4,132754926889171078
 "regex:child:""^.*[.]code-workspace$"" !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$ ",4,132594740220561423
 "E:\Pictures\ x\",4,132594248493509866
@@ -31,6 +32,8 @@ Search,Search Count,Last Search Date
 "folder:wildcards:sizedupe:!(dmdupe:)!(infolder:E:\*RECYCLE*) size:huge..gigantic ",3,132571071310631689
 "sizedupe:size:huge..gigantic",3,132571054225396488
 "parent:""E:\PortableApps"" *.exe",3,132570949993910204
+"ext:ps1 content:Execution content:Policy",2,132916564365055437
+"ext:pas",2,132916409408222161
 "flagg dir:",2,132775666133607140
 "!\$ !""\.history""",2,132772945062189691
 "!dir:",2,132772076760932106
@@ -74,6 +77,31 @@ Search,Search Count,Last Search Date
 "Razer",2,132577091223552854
 "E:\ child:.git",2,132575941070310159
 "sizedupe:",2,132570998931505517
+"child:.git G:",1,132921028390336841
+"modules/WindowsPowerShell",1,132921027962488337
+"ext:osp",1,132918524186466124
+"add body",1,132916834784753323
+"armor body part",1,132916834256780609
+"ext:pas m8",1,132916407857006204
+"ext:ps1 content:Execution",1,132915886737433893
+"ext:ps1 content:exe",1,132915886274458654
+"wholeword:child:.git",1,132915034097518459
+"powershellAliasesUserProfile",1,132913030356436211
+"ConsoleHost_",1,132912345324134985
+"git ext:exe",1,132909894815311176
+"git",1,132909894075490331
+"consoleHost_",1,132894243407311558
+"ext:ini !windows\",1,132894229561739919
+"ext:ini",1,132894205106535766
+"m8r",1,132891518689197832
+"""C:\Users\dator\AppData\Roaming\Vortex\fallout4\profiles""|""D:\OneDrive\My Games\Fallout4\Saves""",1,132891412068923117
+"""C:\Users\dator\AppData\Roaming\Vortex\fallout4\profiles""",1,132891409412005190
+"path: vortex\ !__folder_managed_by_vortex !\plugins",1,132891407669852397
+"path: vortex !__folder_managed_by_vortex !\plugins",1,132891406323786211
+"vortex ",1,132891405160639425
+"vortex profile",1,132891370944484283
+"MeleeGunsUnarmedNPCWeaponFormIDs",1,132883189986752116
+"NPC Travel Packages - FriSatSun.txt",1,132883102365098912
 "session",1,132778956106783157
 "bcompare",1,132778955115194862
 """C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\"" ext:xml content:947f2b47-af0c-4354-9696-9462b1a4bf8b ",1,132778950796982632
@@ -141,7 +169,6 @@ Search,Search Count,Last Search Date
 """D:\Users\crbk01\AppData\Local\Microsoft\"" folder: parents:6",1,132754913765196542
 """C:\Users\crbk01\AppData\Local\Microsoft\"" folder: parents:6",1,132754911828157003
 "ext:ps1 link",1,132754879558348424
-"ext:ps1",1,132754878926659661
 """C:\Users\crbk01\AppData\Local\Packages"" ",1,132754871831783131
 """C:\Users\crbk01\AppData\Local\Packages\"" dir:",1,132754870807915397
 "size:>10mb",1,132754863908664026
