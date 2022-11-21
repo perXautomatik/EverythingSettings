@@ -1,26 +1,55 @@
 Search,Search Count,Last Search Date
+"hyper-v",18,133017629483884992
+"ext:sql|ext:sqlite|ext:json|ext:js|ext:ahk|ext:bat|ext:ps1|ext:xml|ext:txt|ext:html|ext:db|ext:log !(E:\$|C:\$) !\older\",15,133003619725795051
+"D:\Steam\steamapps\workshop\content\262060\2216182993\heroes\hellion _portrait_roster.png",15,132968351098530851
+"C:\Users\Användaren\AppData\Roaming\Vortex\darkestdungeon\mods\dlcloverslabHeroes\heroes\hellion _portrait_roster.png",14,132968351239625979
+"places",13,133041006540660502
+"regex:child:""^[.]git$"" !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$",12,133082189556393178
+"rdp ext:exe ",10,132998553772755033
+"D:\Steam\steamapps\workshop\content\262060\2216182993\heroes\crusader _portrait_roster.png",9,132968338683171920
+"dlcloverslabHeroes\heroes\crusader _portrait_roster.png",9,132968337778301842
+"meshes dir:",8,133035889023649970
+"pscx.dll",8,132954732817249727
 "config\consoles\db !folder: content:""char""",8,132582489854877681
+"latinx",7,133072922895675105
+"bookmarks",7,132982376807988156
+"launchy",7,132956475002508466
+"regex:child:""^.*[.]code-workspace$"" !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$ ",7,132955313209908114
 "< ""E:\Programming(projects)\Sql\consoles\db"" | config\consoles\db >  !folder: content:union",7,132757568936511522
 "!E:\$ ext:ahk ",7,132594747358875743
 """E:\ToDatabase\"" !""E:\ToDatabase\Json\ImageMetaData\""",7,132576890313389041
+"vortex",6,133070237975085752
+".",6,133012808547931572
 "!\$",6,132778934787714560
 "E:\Pictures\",6,132594246633442386
 "!D: !E:\$ !C:\$  < bak | ~ | ""("" > !attribute:L !E:\SteamLibrary\Modding\VortexDownload\ !E:\ToDatabase\Sqlite\ !E:\ToDatabase\Json\",6,132582573879919805
 ":\$RECYCLE.BIN",6,132571054206010835
+"D:\Steam\steamapps\workshop\content\262060\2216182993\heroes\flagellant _portrait_roster.png",5,132982210851442710
+"regex:child:""^[.]git$"" !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$ !\empty\",5,132947941377563803
 "~",5,132757557243445777
-"regex:child:""^[.]git$"" !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$",5,132594264902603580
 "<child:.vscode|child:.git|child:.idea> !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$ ",5,132588131817076697
 "<wildcards:diacritics:"".~*""> E:\  !folder: !E:\$",5,132587436601077901
 "regex:child:""^[.]git$""",5,132578902095764684
-"C:\ edge profile",4,133162617140553229
+"diablo",4,133096612693635529
+"\Vortex\plugins ext:json;js",4,133072073086459245
+"ext:mpq",4,133002792784543461
+"ext:json",4,132956475985580622
+"ext:ps1",4,132915881487069702
 "C:\",4,132754926889171078
-"regex:child:""^.*[.]code-workspace$"" !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$ ",4,132594740220561423
 "E:\Pictures\ x\",4,132594248493509866
 "size:gigantic !folder: !D:\ datemodified:<2021-01-01",4,132583158288235177
 "config\consoles\db !folder:",4,132579081964585195
 """E:\Programming(projects)\projectz\"" ",4,132576412466268030
 "parent:c\windows\system32 *.e",4,132570947689353278
-"353238305F31373837333938363835",3,133169534343679961
+"""C:\Users\dator\AppData\Roaming\Vortex\fallout4\profiles""",3,133070238664783863
+"greatkhan",3,133032514693092128
+"hddra",3,133017160246420988
+"ext:sql",3,133003620168919422
+"C:\Users\Användaren\AppData\Roaming\Vortex\darkestdungeon\mods\dlcloverslabHeroes\heroes\flag _portrait_roster.png",3,132974540777607022
+"D: size:gigantic",3,132967727791021862
+"Microsoft.PowerShell.PSReadLine.dll",3,132956337275167191
+"sizedupe:size:large..gigantic",3,132944453325430809
+"visg",3,132943583452212792
 """C:\Users\crbk01\AppData\Local\Packages"" Microsoft.Office.OneNote_8wekyb3d8bbwe",3,132754888922796665
 "ext:sqlite !\$ \todatabase\",3,132593721950795214
 "E:\ToDatabase\Sqlite\ !folder: ext:sqlite !-",3,132593697427768662
@@ -33,7 +62,45 @@ Search,Search Count,Last Search Date
 "folder:wildcards:sizedupe:!(dmdupe:)!(infolder:E:\*RECYCLE*) size:huge..gigantic ",3,132571071310631689
 "sizedupe:size:huge..gigantic",3,132571054225396488
 "parent:""E:\PortableApps"" *.exe",3,132570949993910204
-"353238305F31373837333938363835\ content:dkbihgadoohejmlhpffffbmbhmkhjbfi",2,133162586921229850
+"mtga2",2,133082207822437508
+"regex:child:""^[.]git$"" size:>1kb  !\$ !\# ",2,133082205024013034
+"firefox ext:exe !recycle\",2,133081669595882379
+"firefox ext:exe",2,133081614886014206
+"\AppData\Roaming\Vortex\ \profiles\",2,133070245494081938
+"\scripts .git",2,133068925329447260
+"ext:ps1 content:token",2,133068924240057566
+"ext",2,133056573541018228
+"sqlite",2,133040008740940390
+"U:\",2,133031222528669811
+"\diablo",2,133012809451139378
+"ext:d2s",2,132986512836254557
+"firefox  dir:",2,132982375947816055
+"temp\ chocolatey ",2,132974763970433926
+"profile dir:",2,132974506855718954
+"profile",2,132974506632733431
+"waterfox",2,132973483910602187
+"autohotkey ext:exe",2,132973463687766659
+"flag dir: !empty: !V:",2,132968365804504806
+"C:\Users\Användaren\AppData\Roaming\Vortex\darkestdungeon\mods\dlcloverslabHeroes\heroes\vestal _portrait_roster.png",2,132968340063642902
+"crusader\ dir:",2,132968327730357954
+"My_waifu_heroes\heroes _portrait_roster.png",2,132968289154220985
+"path:""D:\Steam\steamapps\common\DarkestDungeon"" content:",2,132966848309406177
+"ext:xml !\$",2,132956472538684523
+"\modules\powershellget\ .",2,132956371704362421
+"ext:ps1;psm1 content:Get-PSReadlineOption",2,132956320339993401
+"config",2,132954979663381536
+"book",2,132954966885524250
+"air",2,132953612755791757
+"darkest",2,132952165098015005
+"ConsoleHost_",2,132947941441290498
+"bsarc",2,132947152596784710
+".git ",2,132943447087810560
+"git",2,132939925775424418
+"D: empty: !\$ !\empty",2,132921642449083371
+"G:\ folder:",2,132921275784856501
+"histo",2,132921255365284124
+"ext:ps1 content:Execution content:Policy",2,132916564365055437
+"ext:pas",2,132916409408222161
 "flagg dir:",2,132775666133607140
 "!\$ !""\.history""",2,132772945062189691
 "!dir:",2,132772076760932106
@@ -49,7 +116,6 @@ Search,Search Count,Last Search Date
 "!\$ ext:ahk !datemodified:20210305",2,132594315378862762
 "irfanview\",2,132594248526829891
 """E:\Program Files\K-Lite Codec Pack""",2,132594248336233232
-"ext:sql",2,132594202145430799
 "ext:sqlite !\$ \todatabase\ -",2,132593719299373386
 "ext:sqlite !\$ \todatabase\ !-",2,132593710899604739
 "\.datagrip|\datagrip",2,132593384954685457
@@ -77,20 +143,207 @@ Search,Search Count,Last Search Date
 "Razer",2,132577091223552854
 "E:\ child:.git",2,132575941070310159
 "sizedupe:",2,132570998931505517
-"ext:exe !\$recy todo",1,133178991732975653
-"ext:exe !\$recy phone",1,133178145939434055
-"ext:exe !\$recy",1,133178135167751830
-"353238305F31373837333938363835\ ",1,133162587018932397
-"353238305F31373837333938363835\ content:ombpkjoelcapenbepmgifadkgpokfgfd",1,133160166331765223
-"path: C:\ edge profile ",1,133159961520630019
-"Z:\Project Shelf\U\",1,133158876340385522
-"Z:\Project Shelf\U",1,133158876210976350
-"Z:\Project Shelf\Unsorted\ToGit",1,133158874131160035
-"""Z:\Project Shelf\Unsorted\unsortedFiles\"" ",1,133158859490925771
-"vortex",1,133158828077145675
-"git",1,133157912842332329
-"copy",1,133129027666096005
-"whatpulse",1,133129027467203053
+"bimkw32",1,133098054330600821
+"!dir: C:\ \ps",1,133094635828049349
+"command !dir: C:\",1,133094635189528595
+"command !dir:",1,133094634964311822
+"jsonedit",1,133094520787943487
+"regex:child:""^[.]git$""  !\$ !\#",1,133082195517535348
+"child:""Run history.csv""",1,133081744523845855
+"Run history.csv",1,133081744194655146
+"run history.csv",1,133081743868503990
+" run history",1,133081742723358785
+"whatpulse",1,133081733207164432
+"System.data.sqlite.dll !\#",1,133081709421819828
+"System.data.sqlite.dll",1,133081709099836822
+"run history",1,133081632923264627
+"explorer ext:exe",1,133081603579506662
+"regestr",1,133081584797680875
+"search git",1,133081565019376531
+"child:ConsoleHost_history.txt !recycle\",1,133081423364522856
+"ConsoleHost_history.txt !recycle\",1,133081421505281888
+"ConsoleHost_history.txt",1,133081418414615644
+"consoleHistor",1,133081418326836446
+"firefox ext:exe !\#",1,133081367129263657
+"waterfox ext:exe",1,133081364465114470
+"favorite !dir:",1,133081364080031531
+"child:vortex fallout !U:\",1,133080776577351273
+"child:__folder_managed_by_vortex fallout !U:\",1,133080772893865010
+"child:__folder_managed_by_vortex fallout",1,133080772552941379
+"vortex !dir:",1,133080771275218199
+"VeryUnsorted",1,133073159818871480
+"U:\Project Shelf\ content:PowerShellProjectFolder",1,133073158266334447
+"submodules/postinstallScript/config",1,133073126334544077
+"submodules/postinstallScript/.git",1,133073125958351838
+"postinstallScript",1,133073123582159340
+"graphviz ext:exe",1,133070467226122465
+"property ext:ps1",1,133070352493889273
+"json",1,133070336182369611
+"\Vortex\plugins ext:json",1,133070244494718256
+"\Vortex\plugins !\downloads\ info.json",1,133070244264433639
+"\Vortex\",1,133070243327409328
+"\AppData\Roaming\Vortex\",1,133070242282901012
+"""C:\Users\dator\AppData\Roaming\Vortex\ \profiles""",1,133070239109786229
+"token",1,133069557358518678
+"scripts",1,133068898360716926
+"console|history ext:txt",1,133068681762970441
+"split !dir:",1,133066703389345120
+"path:vortex wfn:index.js",1,133058381455329289
+"path:vortex wfn:index.js content:registerModType",1,133058372358786419
+"path:vortex wfn:index.js content:modTypes",1,133058370156321698
+"wfn:index.js",1,133058369266999847
+"jsoned",1,133058206617841989
+"chrome",1,133058197159729934
+"Paccsu",1,133057651128366453
+"tentacle thr",1,133057633078754922
+"tent",1,133057632802370839
+"portable dir:",1,133057626526345694
+"portable",1,133057626025019515
+"renpy",1,133057623389036342
+"breed",1,133057621809064209
+"hta",1,133057617775740192
+"sucker",1,133057609953545648
+"new vegas dir:",1,133056637108900950
+"steamapps dir:",1,133056601611729264
+"steam dir:",1,133056601503177552
+"PowerShell dir:",1,133056580967489827
+"PowerShell",1,133056580505064406
+"waterf",1,133054734918602543
+"steamLibrar",1,133054708902141213
+"pwsh",1,133053169051202776
+"tokeni ext:ps1",1,133041007127454082
+"bcomp",1,133040873610518632
+"ext:db",1,133039995332410044
+"TodoDiablo2.ps1",1,133037640994204990
+"openmw",1,133036864550400689
+"Firefox\Profiles dir:",1,133035877608476405
+"Helpers\Experimental\countedUniqueLinesSorted.ps1",1,133034246498244421
+"studio",1,133031556940166685
+"slutcr",1,133029152674266598
+"bethini",1,133029130360528109
+"U:\Vortex Mods\",1,133021922040426685
+"Disk2vhd",1,133016665892598355
+"regex:child:""^[.]git$"" !E:\$ !D:\$ !C:\$",1,133011717254762264
+"code\ extensions dir:",1,132990843423341397
+"vscode dir:",1,132990842678675901
+"vscode",1,132990842563860324
+"carotdav",1,132989121981159441
+"ext:exe",1,132989120895174927
+"C:\|D:\ ext:zip;rar;7z",1,132988603143632477
+"rdp ext:exe G:\|V:|D:",1,132986517500562407
+"rdp ext:exe G:\|V:",1,132986516324018308
+"rdp",1,132986512947018856
+"gmt",1,132984862277372370
+"mgm",1,132984862119615291
+"mozilla\",1,132982437972778663
+"runas.exe",1,132976480626307059
+"unraid",1,132976334020433189
+"31373636345F31303736393832383131",1,132976207402106489
+"size:0 dir: !\empty\ !V:\ !\$ !attribute:H !\windows !attribute:L",1,132974766872933734
+"size:0 dir: !\empty\ !V:\ !\$ !attribute:H !\windows",1,132974766249878517
+"size:0 dir: !\empty\ !V:\ !\$ !attribute:H",1,132974766070382677
+"size:0 dir:",1,132974765016840552
+"size:0",1,132974764834410629
+"profile dir: size:gt:2000",1,132974516971777427
+"\opera dir:",1,132974503890574893
+"\opera",1,132974497883191758
+" profile",1,132974496923843283
+"\opera profile",1,132974496625020045
+"ext:html ",1,132973587775714218
+"ext:html content:href",1,132973587684497299
+"ext:html",1,132973581830732586
+"waterfox\",1,132973511713297213
+"path:firefox book",1,132973501116885555
+"path:firefox",1,132973500751072860
+"path:waterfox ",1,132973499839399517
+"waterfox dir:",1,132973485864066822
+"Install.Waterfo_x64.exe",1,132973480907771941
+"novelty_tracker_mp.json",1,132970439287245194
+"autohotkey",1,132968551085816788
+"opera dir:",1,132968366819522561
+"opera ",1,132968366513586466
+"african",1,132968365857846816
+"jester dir: !empty: !V:",1,132968352892047115
+"D:\Steam\steamapps\workshop\content\262060\2216182993\heroes\jester _portrait_roster.png",1,132968352042375277
+"D:\Steam\steamapps\workshop\content\262060\2216182993\heroes\vestal _portrait_roster.png",1,132968339421706988
+"dlcloverslabHeroes\heroesvestal_portrait_roster.png",1,132968338576882093
+"crusader dir: !empty: !V:",1,132968328704252032
+"crusader\ dir: !empty: !V:",1,132968328483574462
+"crusader\ dir: !empty:",1,132968328302101781
+"dlcloverslabHeroes\heroes _portrait_roster.png",1,132968286258062087
+"mongo",1,132956498810844260
+"modules\powershellget",1,132956379691354562
+"modules\packagemana",1,132956373937425219
+"regex:""powershell[^\\]{1,}\\modules\\[^\\]{1,}""",1,132956369405009856
+"wfn:regex:""powershell[^\\]{1,}\\modules\\[^\\]{1,}""",1,132956368337863830
+"regex:""\\modules\\[^\\]{1,}""",1,132956366548165079
+"regex:""modules\\[^\\]{1,}""",1,132956365342287160
+"wildcards:infolder:\modules",1,132956362878668033
+"modules\ dir:",1,132956360080444167
+"modules\",1,132956359895438078
+"\modules\PSReadline\ .",1,132956350251611898
+"\modules\ .",1,132956344470394612
+"\modules\",1,132956344206820605
+"psreadline.psd1",1,132956337734273888
+"ext:ps1;psm1 content:Set-PSReadLineKeyHandler",1,132956332198184052
+"ext:ps1 profile",1,132955313333045870
+"vortex ext:exe",1,132954743313663702
+"dark",1,132949616248508127
+"path:\user",1,132949615902792599
+"path:\steam",1,132949615317875824
+"persist.town.json",1,132949608233088900
+"aaf_seu",1,132947564403764775
+"gith",1,132947089672643894
+"dws",1,132944491745766749
+"bcomp.exe",1,132944044228410016
+"ext:lnk",1,132942745389063046
+"C:\Users\Användaren\ .git dir:",1,132940828746894435
+"dir:.git ""\Users\Användaren""",1,132940026191083767
+"dir:.git ""C:\Users\Användaren""",1,132940019470691691
+"dir:.git C:\Users\Användaren",1,132940019363276518
+"dir:.git",1,132940008948459395
+"dir: .git",1,132939926039015234
+"path:ext:exe \arrogant",1,132938269741720018
+"lasso",1,132934641824541841
+"prola",1,132934641683046801
+"chocolatey",1,132934604348449824
+"copyh",1,132934592697512849
+"ditto",1,132934591578706101
+"ext:psd1 \module",1,132927762748227072
+"ext:psd1 \modules\",1,132923560251585377
+"child:"".git"" !\$  !empty:",1,132922974846947178
+"child:"".git"" !\$ ",1,132922951350707619
+"child:.git !\$ ",1,132922950358887025
+"psread",1,132922822563040111
+"\.git\ !\objects\ !\lfs\ content:takeownership",1,132922634017263688
+"powershellro",1,132922610393930789
+"path:launchy",1,132922590496110882
+"windowsPowerShell",1,132921754842765697
+"fetch_head",1,132921647130527732
+"G:\ folder: !<oneDrive\|windows\>",1,132921278334368772
+"G:\ folder: !<oneDrive|>\",1,132921277063404591
+"child:.git G:",1,132921028390336841
+"modules/WindowsPowerShell",1,132921027962488337
+"ext:osp",1,132918524186466124
+"add body",1,132916834784753323
+"armor body part",1,132916834256780609
+"ext:pas m8",1,132916407857006204
+"ext:ps1 content:Execution",1,132915886737433893
+"ext:ps1 content:exe",1,132915886274458654
+"wholeword:child:.git",1,132915034097518459
+"powershellAliasesUserProfile",1,132913030356436211
+"git ext:exe",1,132909894815311176
+"consoleHost_",1,132894243407311558
+"ext:ini !windows\",1,132894229561739919
+"ext:ini",1,132894205106535766
+"m8r",1,132891518689197832
+"""C:\Users\dator\AppData\Roaming\Vortex\fallout4\profiles""|""D:\OneDrive\My Games\Fallout4\Saves""",1,132891412068923117
+"path: vortex\ !__folder_managed_by_vortex !\plugins",1,132891407669852397
+"path: vortex !__folder_managed_by_vortex !\plugins",1,132891406323786211
+"vortex ",1,132891405160639425
+"vortex profile",1,132891370944484283
+"MeleeGunsUnarmedNPCWeaponFormIDs",1,132883189986752116
+"NPC Travel Packages - FriSatSun.txt",1,132883102365098912
 "session",1,132778956106783157
 "bcompare",1,132778955115194862
 """C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\"" ext:xml content:947f2b47-af0c-4354-9696-9462b1a4bf8b ",1,132778950796982632
@@ -115,22 +368,18 @@ Search,Search Count,Last Search Date
 "ahk",1,132773824645994991
 "history !\tortoiseGit !dir:",1,132772180792255380
 "history !\tortoiseGit",1,132772180376253318
-"histo",1,132772180044111078
 "!\$ !\games\ !""C:\Users\crbk01\Desktop\OnGithub""",1,132772075739748241
 "!\$ !\games\ ",1,132772074300379963
 "!\$ !\games\",1,132772072970096385
 "!thumb",1,132772062916692631
 " ",1,132772045299104917
-".",1,132772045201576207
 "path:""\shell\""",1,132769521444144839
 "path:/PSreadline/ !git:",1,132769496323079077
 "path:/PSreadline/ !gito:",1,132769494605631520
-"config",1,132766038314053236
 "folder: ""C:\windows.old"" ",1,132765941333696596
 "folder: ""D:\Users\crbk01\AppData\Roaming\"" ",1,132765931461409972
 """C:\Users\crbk01\AppData\Roaming\"" ",1,132765917576596452
 "datagrip20",1,132765148428491020
-"book",1,132761671913314372
 "ext:ahk",1,132761660479192671
 """C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\Kv-FlaggGenerering\""",1,132759971646061786
 """C:\Users\crbk01\AppData\Roaming\JetBrains""  content:gisdb01",1,132757569694675507
@@ -158,7 +407,6 @@ Search,Search Count,Last Search Date
 """D:\Users\crbk01\AppData\Local\Microsoft\"" folder: parents:6",1,132754913765196542
 """C:\Users\crbk01\AppData\Local\Microsoft\"" folder: parents:6",1,132754911828157003
 "ext:ps1 link",1,132754879558348424
-"ext:ps1",1,132754878926659661
 """C:\Users\crbk01\AppData\Local\Packages"" ",1,132754871831783131
 """C:\Users\crbk01\AppData\Local\Packages\"" dir:",1,132754870807915397
 "size:>10mb",1,132754863908664026
@@ -275,7 +523,6 @@ Search,Search Count,Last Search Date
 "beond",1,132588188649845052
 "resources\_common\ai",1,132588184152575788
 "ai",1,132588182700793782
-"ext:xml !\$",1,132588030616455065
 "ext:download",1,132587521582491953
 "<child:.vscode|child:.git> !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$ ",1,132587440212392166
 "<child:.vscode|.git> !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$ ",1,132587440009357491
@@ -285,7 +532,6 @@ Search,Search Count,Last Search Date
 "regex:child:<""^[.]vscode$""|""^[.]git$""> !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$ ",1,132587437260267905
 "beebeep",1,132586770873949348
 "E:\ ~ !folder: !E:\$",1,132586699479303462
-"G:\ folder:",1,132586669498799227
 "G:\",1,132586669288029099
 "<regex:child:""^[.]idea$"" !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$> ",1,132585872238188966
 "<regex:child:""^[.]idea$"" !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$> a",1,132585842674858217
@@ -432,7 +678,6 @@ Search,Search Count,Last Search Date
 "sizedupe:!(dmdupe:) size:huge..gigantic ",1,132571065552117683
 "nutaku",1,132571044584774223
 "Sacred Sword Princesses",1,132571043657843620
-"sizedupe:size:large..gigantic",1,132571026615046315
 " dupe:",1,132570955708586846
 "E:\$RECYCLE.BIN",1,132570952094187771
 "nocase:empty:",1,132570951788185554
