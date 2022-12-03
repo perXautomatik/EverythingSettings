@@ -44,3 +44,4 @@ Name,Case,Whole Word,Path,Diacritic,Regex,Sort,Descending,Filter,Search,Index,Fi
 "Vortex Plugins",0,0,0,0,0,"Date Created",1,"EVERYTHING(Absolutely)","\Vortex\plugins ext:json;js",0,"","",1,,,0
 "[ReverseEngineering] coffee",0,0,0,0,0,"Size",1,"EVERYTHING","ext:coffee",0,"","",1,,,0
 "[ReverseEngineering]Python",0,0,0,0,0,"Size",1,"EVERYTHING","ext:py",0,"","",1,,,0
+"A_ModifiedToday",0,0,0,0,0,"Date Modified",1,"EVERYTHING","datemodified:today",0,"","",1,,,0
