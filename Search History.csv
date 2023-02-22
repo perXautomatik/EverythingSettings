@@ -12,6 +12,8 @@ Search,Search Count,Last Search Date
 "<child:.vscode|child:.git|child:.idea> !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$ ",5,132588131817076697
 "<wildcards:diacritics:"".~*""> E:\  !folder: !E:\$",5,132587436601077901
 "regex:child:""^[.]git$""",5,132578902095764684
+".git\config !folder:",4,133205518540663815
+"C:\ edge profile",4,133162617140553229
 "C:\",4,132754926889171078
 "regex:child:""^.*[.]code-workspace$"" !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$ ",4,132594740220561423
 "E:\Pictures\ x\",4,132594248493509866
@@ -19,6 +21,7 @@ Search,Search Count,Last Search Date
 "config\consoles\db !folder:",4,132579081964585195
 """E:\Programming(projects)\projectz\"" ",4,132576412466268030
 "parent:c\windows\system32 *.e",4,132570947689353278
+"353238305F31373837333938363835",3,133169534343679961
 """C:\Users\crbk01\AppData\Local\Packages"" Microsoft.Office.OneNote_8wekyb3d8bbwe",3,132754888922796665
 "ext:sqlite !\$ \todatabase\",3,132593721950795214
 "E:\ToDatabase\Sqlite\ !folder: ext:sqlite !-",3,132593697427768662
@@ -31,6 +34,7 @@ Search,Search Count,Last Search Date
 "folder:wildcards:sizedupe:!(dmdupe:)!(infolder:E:\*RECYCLE*) size:huge..gigantic ",3,132571071310631689
 "sizedupe:size:huge..gigantic",3,132571054225396488
 "parent:""E:\PortableApps"" *.exe",3,132570949993910204
+"353238305F31373837333938363835\ content:dkbihgadoohejmlhpffffbmbhmkhjbfi",2,133162586921229850
 "flagg dir:",2,132775666133607140
 "!\$ !""\.history""",2,132772945062189691
 "!dir:",2,132772076760932106
@@ -55,7 +59,6 @@ Search,Search Count,Last Search Date
 "E:\Pictures\unsorted\",2,132590979730969622
 "E:\pictures\x\internet\",2,132590977283620219
 "E:\SteamLibrary\steamapps\workshop\content\221380\ folder: !""E:\SteamLibrary\steamapps\workshop\content\221380\281802458"" parents:6",2,132588622459996755
-".git\config !folder:",2,132588348587279699
 """config""",2,132588323806781332
 "age of empires",2,132588193454831112
 "<child:.vscode|child:.git|child:.idea|regex:child:""^.*[.]code-workspace$""> !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$ ",2,132588135197187032
@@ -74,6 +77,27 @@ Search,Search Count,Last Search Date
 "Razer",2,132577091223552854
 "E:\ child:.git",2,132575941070310159
 "sizedupe:",2,132570998931505517
+"vsixinstaller",1,133209333184018608
+"devenv.exe",1,133209244454436799
+"ComponentModelCache",1,133209243250080025
+"csc.exe",1,133207601118965546
+"path:"".git\"" child:""config""",1,133205520621830918
+".git dir:",1,133205510241682886
+".git",1,133205248385067233
+"ext:exe !\$recy todo",1,133178991732975653
+"ext:exe !\$recy phone",1,133178145939434055
+"ext:exe !\$recy",1,133178135167751830
+"353238305F31373837333938363835\ ",1,133162587018932397
+"353238305F31373837333938363835\ content:ombpkjoelcapenbepmgifadkgpokfgfd",1,133160166331765223
+"path: C:\ edge profile ",1,133159961520630019
+"Z:\Project Shelf\U\",1,133158876340385522
+"Z:\Project Shelf\U",1,133158876210976350
+"Z:\Project Shelf\Unsorted\ToGit",1,133158874131160035
+"""Z:\Project Shelf\Unsorted\unsortedFiles\"" ",1,133158859490925771
+"vortex",1,133158828077145675
+"git",1,133157912842332329
+"copy",1,133129027666096005
+"whatpulse",1,133129027467203053
 "session",1,132778956106783157
 "bcompare",1,132778955115194862
 """C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\"" ext:xml content:947f2b47-af0c-4354-9696-9462b1a4bf8b ",1,132778950796982632

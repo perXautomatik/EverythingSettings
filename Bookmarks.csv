@@ -21,3 +21,4 @@ Name,Case,Whole Word,Path,Diacritic,Regex,Sort,Descending,Filter,Search,Index,Fi
 "everything",0,0,0,0,0,"Name",0,"EVERYTHING","everything",0,"","",1,,,0
 "wildcards:E:\Pictures\unsorted\  !<child:*.jpeg|child:*.png|child:*.bmp|child:*.jpg|child:*.gif> childfoldercount:0",0,0,0,0,0,"Size",0,"EVERYTHING","wildcards:E:\Pictures\unsorted\  !<child:*.jpeg|child:*.png|child:*.bmp|child:*.jpg|child:*.gif> childfoldercount:0",0,"","",1,,,0
 "DbMentionINIdiaFolder",0,0,0,0,0,"Date Accessed",0,"EVERYTHING","""C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\default\.idea\"" !\.git content:5b682ee5-608b-4b16-bdfd-1132a4a5566f",0,"","",1,,,0
+"VortexProfiles",0,0,0,0,0,"Path",0,"EVERYTHING(Absolutely)","""C:\Users\dator\AppData\Roaming\Vortex\fallout4\profiles""",0,"","",1,,,0
