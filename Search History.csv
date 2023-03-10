@@ -21,6 +21,7 @@ Search,Search Count,Last Search Date
 "config\consoles\db !folder:",4,132579081964585195
 """E:\Programming(projects)\projectz\"" ",4,132576412466268030
 "parent:c\windows\system32 *.e",4,132570947689353278
+"ext:sql",3,133224368117600139
 "353238305F31373837333938363835",3,133169534343679961
 """C:\Users\crbk01\AppData\Local\Packages"" Microsoft.Office.OneNote_8wekyb3d8bbwe",3,132754888922796665
 "ext:sqlite !\$ \todatabase\",3,132593721950795214
@@ -34,6 +35,10 @@ Search,Search Count,Last Search Date
 "folder:wildcards:sizedupe:!(dmdupe:)!(infolder:E:\*RECYCLE*) size:huge..gigantic ",3,132571071310631689
 "sizedupe:size:huge..gigantic",3,132571054225396488
 "parent:""E:\PortableApps"" *.exe",3,132570949993910204
+".git dir:",2,133225024330419455
+"B:\ config content:worktree",2,133223048356730610
+"vortex",2,133221549846179164
+".git",2,133214489177422121
 "353238305F31373837333938363835\ content:dkbihgadoohejmlhpffffbmbhmkhjbfi",2,133162586921229850
 "flagg dir:",2,132775666133607140
 "!\$ !""\.history""",2,132772945062189691
@@ -50,7 +55,6 @@ Search,Search Count,Last Search Date
 "!\$ ext:ahk !datemodified:20210305",2,132594315378862762
 "irfanview\",2,132594248526829891
 """E:\Program Files\K-Lite Codec Pack""",2,132594248336233232
-"ext:sql",2,132594202145430799
 "ext:sqlite !\$ \todatabase\ -",2,132593719299373386
 "ext:sqlite !\$ \todatabase\ !-",2,132593710899604739
 "\.datagrip|\datagrip",2,132593384954685457
@@ -77,13 +81,22 @@ Search,Search Count,Last Search Date
 "Razer",2,132577091223552854
 "E:\ child:.git",2,132575941070310159
 "sizedupe:",2,132570998931505517
+"modules/Documents",1,133224361911148511
+"7327483",1,133224339564292375
+"3714794",1,133224339015116058
+"213c939651e0bef7612b2f910909a21d",1,133224337849710720
+"ext:lock",1,133224317874815380
+"sql-getIndexes",1,133223048347226500
+"explorer.exe",1,133217975771080116
+"masterlist",1,133215566159824912
+"beyond",1,133215449441083810
+"ext:exe",1,133214542222874166
+".git !empty: file:",1,133214489816663829
 "vsixinstaller",1,133209333184018608
 "devenv.exe",1,133209244454436799
 "ComponentModelCache",1,133209243250080025
 "csc.exe",1,133207601118965546
 "path:"".git\"" child:""config""",1,133205520621830918
-".git dir:",1,133205510241682886
-".git",1,133205248385067233
 "ext:exe !\$recy todo",1,133178991732975653
 "ext:exe !\$recy phone",1,133178145939434055
 "ext:exe !\$recy",1,133178135167751830
@@ -94,7 +107,6 @@ Search,Search Count,Last Search Date
 "Z:\Project Shelf\U",1,133158876210976350
 "Z:\Project Shelf\Unsorted\ToGit",1,133158874131160035
 """Z:\Project Shelf\Unsorted\unsortedFiles\"" ",1,133158859490925771
-"vortex",1,133158828077145675
 "git",1,133157912842332329
 "copy",1,133129027666096005
 "whatpulse",1,133129027467203053
