@@ -1,0 +1,47 @@
+Name,Case,Whole Word,Path,Diacritic,Regex,Sort,Descending,Filter,Search,Index,File List,Host,Link Type,Macro,Key,View
+"ProjectFolders",0,1,0,0,0,"Name",0,"EVERYTHING","<child:.vscode|child:.git|child:.idea|regex:child:""^.*[.]code-workspace$""> !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$ ",0,"","",1,,,0
+"[projects]consoles",0,0,0,0,0,"Date Modified",1,"EVERYTHING","< ""E:\Programming(projects)\Sql\consoles\db"" | config\consoles\db >  !folder: content:union",0,"","",1,,,0
+"DbMentionINIdiaFolder",0,0,0,0,0,"Date Accessed",0,"EVERYTHING","""C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\default\.idea\"" !\.git content:5b682ee5-608b-4b16-bdfd-1132a4a5566f",0,"","",1,,,0
+"parent:c:\windows\system32 *.exe",0,0,0,0,0,"Name",1,"EVERYTHING","parent:c:\windows\system32 *.exe",0,"","",1,,,0
+"[Shortcuts]Startmenue",0,0,0,0,0,"Name",0,"EVERYTHING","wildcards: *\Microsoft\Windows\Start Menu\* !folder: !desktop.ini",0,"","",1,,,0
+"[projects]Gitz",0,0,0,0,0,"Name",1,"EVERYTHING","regex:child:""^[.]git$"" size:>1kb  !\$ !\# ",0,"","",1,,,0
+"[Git]Ignores",0,0,0,0,0,"Size",1,"EVERYTHING",".gitignore",0,"","",1,,,0
+"[Git]Config",0,0,0,0,0,"Name",1,"EVERYTHING",".git\config !folder:",0,"","",1,,,0
+"[projects]Vscodez",0,0,0,0,0,"Date Accessed",0,"EVERYTHING","regex:child:""^.*[.]code-workspace$"" !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$ ",0,"","",1,,,0
+"[projects]IntelIJIdea",0,0,0,0,0,"Date Accessed",0,"EVERYTHING","regex:child:""^[.]idea$"" !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$ ",0,"","",1,,,0
+"[ReverseEngineering]NSIS: Nullsoft Scriptable Install System",0,0,0,0,0,"Size",1,"EVERYTHING","!\$ ext:nsh",0,"","",1,,,0
+"EmptyFolders",0,0,0,0,0,"Date Modified",0,"EVERYTHING","size:0 dir: !\empty\ !V:\ !\$ !attribute:H !\windows !attribute:L",0,"","",1,,,0
+"olderFiles",0,0,0,0,0,"Name",0,"EVERYTHING","!folder: !D:\ datemodified:<2020-01-01 !\$",0,"","",1,,,0
+"[Exe]c:\",0,0,0,0,0,"Size",1,"exclude installer","C: !C:\Windows\ !ext:msi !ext:msp exe: !attrib:L !C:\$",0,"","",1,,,0
+"[ReverseEngineering]AHK",0,0,0,0,0,"Size",1,"EVERYTHING","!E:\$ ext:ahk ",0,"","",1,,,0
+"[Browser]Extensions",0,0,0,0,0,"Size",1,"EVERYTHING","path:regex:<( chrome | firefox | opera | vivaldi | waterfox )> folder: Extension",0,"","",1,,,0
+"[EveryThing]FileLists",0,0,0,0,0,"Size",1,"EVERYTHING","!E:\$ ext:EFU",0,"","",1,,,0
+"VortexProfiles",0,0,0,0,0,"Path",0,"EVERYTHING(Absolutely)","\AppData\Roaming\Vortex\ \profiles\",0,"","",1,,,0
+"[TODO]JsonsToClassify",0,0,0,0,0,"Name",1,"json","""E:\ToDatabase\"" !""E:\ToDatabase\Json\ImageMetaData\""",0,"","",1,,,0
+"[Links]All",0,0,0,0,0,"Attributes",0,"EVERYTHING","!D:\ wildcards:attrib:*L*",0,"","",1,,,0
+"[Apps]Portable",0,0,0,0,0,"Name",0,"EVERYTHING","E:\PortableApps ",0,"","",1,,,0
+"[backupfiles]possible",0,0,0,0,0,"Size",1,"EVERYTHING","!D: !E:\$ !C:\$  < bak | ~ | ""("" > !attribute:L !E:\SteamLibrary\Modding\VortexDownload\ !E:\ToDatabase\Sqlite\ !E:\ToDatabase\Json\",0,"","",1,,,0
+"ICONS",0,0,0,0,0,"Path",0,"EVERYTHING","ext:ico",0,"","",1,,,64
+"dupes larger than 1mb",0,0,0,0,0,"Size",1,"EVERYTHING","sizedupe:size:large..gigantic",0,"","",1,,,0
+":\$RECYCLE.BIN",0,0,0,0,0,"Size",1,"EVERYTHING",":\$RECYCLE.BIN",0,"","",1,,,0
+"[ReverseEngineering]LuaScripts",0,0,0,0,0,"Path",0,"EVERYTHING","ext:lua",0,"","",1,,,0
+"[ReverseEngineering]JavaScript",0,0,0,0,0,"Size",1,"EVERYTHING","ext:js",0,"","",1,,,0
+"[ReverseEngineering]Ps1",0,0,0,0,0,"Size",1,"EVERYTHING","ext:ps1",0,"","",1,,,0
+"[ReverseEngineering]C++",0,0,0,0,0,"Size",1,"EVERYTHING","ext:c",0,"","",1,,,0
+"ManagementConsoles",0,0,0,0,0,"Path",0,"EVERYTHING","ext:msc",0,"","",1,,,64
+"[ReverseEngineering]Bat",0,0,0,0,0,"Path",0,"EVERYTHING","ext:bat",0,"","",1,,,0
+"[ReverseEngineering]SQl",0,0,0,0,0,"Path",0,"EVERYTHING","ext:sql",0,"","",1,,,0
+"folderdupesNotLinks",0,0,0,0,0,"Name",0,"EVERYTHING","folder:wildcards:sizedupe: !(dmdupe:) !(attrib:L) !(namepartdupe:) size:huge..gigantic ",0,"","",1,,,0
+"older",0,0,0,0,0,"Size",1,"EVERYTHING","!folder: !D:\ datemodified:<2020-01-01 !\$ !\older",0,"","",1,,,0
+"AoE mods",0,0,0,0,0,"Extension",1,"EVERYTHING","""E:\SteamLibrary\steamapps\workshop\content\221380\""",0,"","",1,,,0
+"[Folders]ProgramFiles",0,0,0,0,0,"Size",1,"EVERYTHING","<C:|E:>\program files\  folder: parents:2",0,"","",1,,,0
+"VideosInt",0,0,0,0,0,"Name",0,"Video-ts","E:\pictures\x\internet\  !\$ size:medium-gigantic ",0,"","",1,,,0
+"everything",0,0,0,0,0,"Name",0,"EVERYTHING","everything",0,"","",1,,,0
+"wildcards:E:\Pictures\unsorted\  !<child:*.jpeg|child:*.png|child:*.bmp|child:*.jpg|child:*.gif> childfoldercount:0",0,0,0,0,0,"Size",0,"EVERYTHING","wildcards:E:\Pictures\unsorted\  !<child:*.jpeg|child:*.png|child:*.bmp|child:*.jpg|child:*.gif> childfoldercount:0",0,"","",1,,,0
+"[Datagrip]WorkspacesDatasources",0,0,0,0,0,"Path",1,"EVERYTHING","wildcards:<C:\|E:\>*datagrip*\system\conversion",0,"","",1,,,0
+"[ReverseEngineer]Dll",0,0,0,0,0,"Name",0,"EVERYTHING","ext:dll !C:\$ !E:\$",0,"","",1,,,0
+"[ReverseEngineering]Java",0,0,0,0,0,"Size",1,"EVERYTHING","ext:java",0,"","",1,,,0
+"Vortex Plugins",0,0,0,0,0,"Date Created",1,"EVERYTHING(Absolutely)","\Vortex\plugins ext:json;js",0,"","",1,,,0
+"[ReverseEngineering] coffee",0,0,0,0,0,"Size",1,"EVERYTHING","ext:coffee",0,"","",1,,,0
+"[ReverseEngineering]Python",0,0,0,0,0,"Size",1,"EVERYTHING","ext:py",0,"","",1,,,0
+"A_ModifiedToday",0,0,0,0,0,"Date Modified",1,"EVERYTHING","datemodified:today",0,"","",1,,,0
