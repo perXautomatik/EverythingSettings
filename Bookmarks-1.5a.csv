@@ -1,0 +1,3 @@
+Name,Type,Folder,Case,Whole Word,Path,Diacritic,Prefix,Suffix,Ignore Punctuation,Ignore Whitespace,Regex,Search,Filter,Columns,Sort,Descending,View,Index,File List,Host,Link Type,Macro,Key
+"mingw64",0,"",0,0,0,0,0,0,0,0,0,"mingw64","EVERYTHING","Name;Path;Size;Date Modified","Size",1,0,0,,,0,,
+"D:\ regex:"".*[(]\d[)]""",0,"",0,0,0,0,0,0,0,0,0,"D:\ regex:"".*[(]\d[)]""","EVERYTHING","Name;Path;Size;Date Modified","Path",1,0,0,,,0,,
