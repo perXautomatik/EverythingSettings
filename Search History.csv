@@ -1,5 +1,4 @@
 Search,Search Count,Last Search Date
-".git\config !folder:",10,133263812236807417
 "config\consoles\db !folder: content:""char""",8,132582489854877681
 "< ""E:\Programming(projects)\Sql\consoles\db"" | config\consoles\db >  !folder: content:union",7,132757568936511522
 "!E:\$ ext:ahk ",7,132594747358875743
@@ -13,6 +12,7 @@ Search,Search Count,Last Search Date
 "<child:.vscode|child:.git|child:.idea> !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$ ",5,132588131817076697
 "<wildcards:diacritics:"".~*""> E:\  !folder: !E:\$",5,132587436601077901
 "regex:child:""^[.]git$""",5,132578902095764684
+".git\config !folder:",4,133205518540663815
 "C:\ edge profile",4,133162617140553229
 "C:\",4,132754926889171078
 "regex:child:""^.*[.]code-workspace$"" !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$ ",4,132594740220561423
@@ -21,7 +21,6 @@ Search,Search Count,Last Search Date
 "config\consoles\db !folder:",4,132579081964585195
 """E:\Programming(projects)\projectz\"" ",4,132576412466268030
 "parent:c\windows\system32 *.e",4,132570947689353278
-"vortex",3,133275419211442818
 "ext:sql",3,133224368117600139
 "353238305F31373837333938363835",3,133169534343679961
 """C:\Users\crbk01\AppData\Local\Packages"" Microsoft.Office.OneNote_8wekyb3d8bbwe",3,132754888922796665
@@ -36,13 +35,9 @@ Search,Search Count,Last Search Date
 "folder:wildcards:sizedupe:!(dmdupe:)!(infolder:E:\*RECYCLE*) size:huge..gigantic ",3,132571071310631689
 "sizedupe:size:huge..gigantic",3,132571054225396488
 "parent:""E:\PortableApps"" *.exe",3,132570949993910204
-"book",2,133287533878991004
-"B:\ToGit\Projectfolder\NewWindows\scoopbucket-1\ ext:ps1",2,133277849200169829
-"3714794",2,133263813537167990
-".git\config !folder: content:vortex",2,133263695099770350
-"modules\upg11",2,133234530736816893
 ".git dir:",2,133225024330419455
 "B:\ config content:worktree",2,133223048356730610
+"vortex",2,133221549846179164
 ".git",2,133214489177422121
 "353238305F31373837333938363835\ content:dkbihgadoohejmlhpffffbmbhmkhjbfi",2,133162586921229850
 "flagg dir:",2,132775666133607140
@@ -86,70 +81,9 @@ Search,Search Count,Last Search Date
 "Razer",2,132577091223552854
 "E:\ child:.git",2,132575941070310159
 "sizedupe:",2,132570998931505517
-"path:project vortex",1,133292106602691399
-"path:helpers path:beyond",1,133289076440907065
-"helpers ",1,133289075820247917
-"ext:exe vhd",1,133284460627193038
-"vhd",1,133284460488093123
-"dotult",1,133283593566553774
-"bookm",1,133283505448862478
-"B:\ToGit\Projectfolder\NewWindows\scoopbucket-1\ ext:ps1;psm1",1,133278022672161453
-"B:\ToGit\Projectfolder\NewWindows\scoopbucket-1\ debl",1,133278015352867723
-"B:\ToGit\Projectfolder\NewWindows\scoopbucket-1\ RegImp",1,133278012937988099
-"B:\ToGit\Projectfolder\NewWindows\scoopbucket-1\ powershell",1,133277996636891301
-"B:\ToGit\Projectfolder\NewWindows\scoopbucket-1\ .git",1,133277840329871560
-"reclaim",1,133277712136692009
-"regimpo",1,133277709407727218
-"Import-Bucket-Tests",1,133277603978160067
-"buildhelpers",1,133277603783777174
-"sboot",1,133277573952329950
-"config.ps1",1,133277572388841405
-"B:\ToGit\Projectfolder\NewWindows content:vortex",1,133277152222321597
-".git content:vortex",1,133277129607361351
-".git path:vortex",1,133277128405031650
-"countedUniqueLines.ps1",1,133276788554699179
-"Helpers\Experimental\countedUniqueLinesSorted.ps1",1,133276769063137567
-"helpers B:",1,133276768781114567
-"helpers",1,133276768416023584
-"Windows10DebloaterGUI.ps1 B:\",1,133276692024738756
-"Windows10DebloaterGUI.ps1",1,133276672618934490
-"custom-lists.ps1",1,133276643933433074
-"ext:ps1 path:project",1,133276198341531443
-"path:json helper ext:ps1",1,133275724976723404
-".git !Z:\",1,133275140750500175
-"bcomp",1,133266302588910065
-"modules/3714794",1,133263816674243728
-".git\config !folder: content:3714794",1,133263812580528620
-"B:\toGit\ .git",1,133263772379216506
-" path:<AppData\.git\modules\Roaming\Vortex>",1,133263694251395334
-".git\config !folder: content:powershell",1,133263690079009602
-"filesync",1,133263677651098605
-"fppkg",1,133258395470855146
-"ChilkatDotNet47",1,133241166755667088
-"ext:ps1 !\Archive",1,133239060489196762
-"ps1",1,133239055198144053
-"modules/SparseCheckout/test-git-partial-clone-big-small",1,133239054336568487
-"modules/ps1/git/add_submodule",1,133239053335815671
-"modules/ps1/CsharpI",1,133239052623284395
-"modules/PowershellProjects",1,133239050312421607
-"Framework.dll",1,133236117633338542
-"borås\upgift1",1,133234536194549959
-"upgift1",1,133234529967254397
-"modules\AutoLotConsoleApp",1,133234518638557361
-"modules/AutoLotConsoleApp",1,133234517727318874
-"borås/upgift1",1,133234517162449929
-"modules/upg11",1,133234516885091895
-"EntityFramework.props",1,133234477362767791
-"repos",1,133234408205413172
-"antidupl",1,133231729555195859
-"ext:cs",1,133231123855250618
-"dds",1,133231099921709995
-"json exe",1,133230265626031992
-"view exe",1,133230262476334337
-"db exe",1,133230237938873875
-"ext:exe mintty",1,133229265487939148
 "modules/Documents",1,133224361911148511
 "7327483",1,133224339564292375
+"3714794",1,133224339015116058
 "213c939651e0bef7612b2f910909a21d",1,133224337849710720
 "ext:lock",1,133224317874815380
 "sql-getIndexes",1,133223048347226500
@@ -215,6 +149,7 @@ Search,Search Count,Last Search Date
 "folder: ""D:\Users\crbk01\AppData\Roaming\"" ",1,132765931461409972
 """C:\Users\crbk01\AppData\Roaming\"" ",1,132765917576596452
 "datagrip20",1,132765148428491020
+"book",1,132761671913314372
 "ext:ahk",1,132761660479192671
 """C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\Kv-FlaggGenerering\""",1,132759971646061786
 """C:\Users\crbk01\AppData\Roaming\JetBrains""  content:gisdb01",1,132757569694675507
