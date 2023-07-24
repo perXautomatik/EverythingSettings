@@ -5,6 +5,7 @@ Name,Case,Whole Word,Path,Diacritics,Regex,Search,Macro,Key
 "EVERYTHING(Absolutely)",0,0,0,0,0,"",,
 "EVERYTHING(exclude installer)",0,0,1,0,0,"!< instal | setup | uninst | cache | update | crash >",,
 "EVERYTHING(LargestNotAccessedPastYear)",0,0,0,0,0,"size:>tiny !<dateaccessed:""past1years"">",,
+exclude installer,0,0,1,0,0,!< instal | setup | uninst | cache | update | crash >
 "![Git]",0,0,1,0,0,"!.git\","git",
 "[Git]zButNotObjects",0,0,0,0,0,"child:"".git"" !\objects\","gitz",
 "[Git]Objects",0,0,1,0,0,".git\objects\","Gitzo",
@@ -30,6 +31,7 @@ Name,Case,Whole Word,Path,Diacritics,Regex,Search,Macro,Key
 "RecycleBin",0,0,1,0,0,"RECYCLE",,
 "AUDIO",0,0,0,1,0,"ext:aac;ac3;aif;aifc;aiff;au;cda;dts;fla;flac;it;m1a;m2a;m3u;m4a;mid;midi;mka;mod;mp2;mp3;mpa;ogg;ra;rmi;spc;rmi;snd;umx;voc;wav;wma;xm","audio",
 "COMPRESSED",0,0,0,1,0,"ext:7z;ace;arj;bz2;cab;gz;gzip;jar;r00;r01;r02;r03;r04;r05;r06;r07;r08;r09;r10;r11;r12;r13;r14;r15;r16;r17;r18;r19;r20;r21;r22;r23;r24;r25;r26;r27;r28;r29;rar;tar;tgz;z;zip","zip",
+dbs,0,0,0,1,0,ext:sqlite;db;qlite,dbs
 "DOCUMENT",0,0,0,1,0,"ext:c;chm;cpp;csv;cxx;doc;docm;docx;dot;dotm;dotx;h;hpp;htm;html;hxx;ini;java;lua;mht;mhtml;odt;pdf;potx;potm;ppam;ppsm;ppsx;pps;ppt;pptm;pptx;rtf;sldm;sldx;thmx;txt;vsd;wpd;wps;wri;xlam;xls;xlsb;xlsm;xlsx;xltm;xltx;xml","doc",
 "EXECUTABLE",0,0,0,1,0,"ext:bat;cmd;exe;msi;msp;scr","exe",
 "FOLDER",0,0,0,1,0,"folder:","dir",
@@ -42,4 +44,3 @@ Name,Case,Whole Word,Path,Diacritics,Regex,Search,Macro,Key
 "Todo:powershellHistory",0,0,0,0,0,"powershellHistory",,
 "Todo:WindowsrunHistory",0,0,0,0,0,"runHistory",,
 "Todo:windowsPaths",0,0,0,0,0,"windowsPaths",,
-"Local",0,0,0,0,0,"C:\|D:\|B:\",,
