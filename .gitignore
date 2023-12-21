@@ -1,4 +1,6 @@
-ETP_Server_Log.txt
+*_Log.txt
 *.db
 *.exe
 *.lng
+*.5CG84229D5.*
+*.tmp
