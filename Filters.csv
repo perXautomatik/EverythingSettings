@@ -10,3 +10,5 @@ Name,Case,Whole Word,Path,Diacritics,Regex,Search,Macro,Key
 "ScoopBuckets",0,0,0,0,0,"path:bucket ext:json","scoop",
 "AppData",0,0,0,0,0,"path:AppData\","appdata",
 "persist",0,0,0,0,0,"path:scoop path:persis","persist",
+"NoExtension",0,0,0,0,0,"ext: ",,
+"Git-Refs",0,0,0,0,0,"<<path:\.git\ !path:\objects\ !path:\rr-cache !<Commit-map|nodes4|index>>|wfn:.git> file: ",,
