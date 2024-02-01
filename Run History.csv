@@ -19,6 +19,7 @@ Filename,Run Count,Last Run Date
 "B:\PF\.git\modules\AhkProjectFolder",3,133400695881343717
 "B:\PF\CSharpVisualStudio\repos\boras\InvalidMarkup\.git",3,133397612461894742
 "B:\PF\.git\modules\CSharpVisualStudio\repos\worktrees\PetStore\modules\InvalidMarkup",3,133397612308192965
+"C:\Users\CrRoot\.config\.git\worktrees\LocalLow",2,133512008164597142
 "C:\Users\CrRoot\.config\WindowsPowerShell\Microsoft.PowerShell_profile.ps1",2,133501439765074207
 "C:\Users\CrRoot\.config\powershell\.git",2,133492774594013272
 "B:\ProgramData\scoop\persist\AppData\Roaming\GitExtensions\GitExtensions\GitExtensions.settings",2,133492646108802827
@@ -58,6 +59,11 @@ Filename,Run Count,Last Run Date
 "B:\PF\CSharpVisualStudio\repos\boras\DataBindingDemo\.git",2,133397610758238502
 "B:\PF\Archive\ToGit\.git\modules\chris\modules\source\repos",2,133397599299908562
 "C:\ProgramData\scoop\apps\smartsystemmenu\2.23.0\SmartSystemMenu64.exe",2,133395453179253902
+"C:\Program Files\Git\mingw64\share\git\edit-git-bash.exe",1,133512461531544871
+"C:\ProgramData\scoop\apps\TortoiseGit\2.14.0.0\bin\TortoiseGitMerge.exe",1,133512460285328889
+"C:\ProgramData\scoop\persist",1,133512064359036170
+"B:\ProgramData\scoop\persist",1,133512063755068867
+"B:\PF\scoopbucket-presist",1,133512063135727949
 "B:\ProgramData\scoop\persist\PowerShellCmdHist\CommandLine.txt",1,133508002624910733
 "C:\Users\Public\Documents\WindowsPowerShell\PSReadline\CommandLine.txt",1,133508001742249520
 "C:\Users\CrRoot\AppData\Roaming\Microsoft\Windows\PowerShell\PSReadLine\ConsoleHost_history.txt",1,133507992942589236
