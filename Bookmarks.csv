@@ -12,15 +12,16 @@ Name,Case,Whole Word,Path,Diacritic,Regex,Sort,Descending,Filter,Search,Index,Fi
 "[EveryThing]FileLists",0,0,0,0,0,"Size",1,"EVERYTHING","!E:\$ ext:EFU",0,"","",1,,,0
 "VortexProfiles",0,0,0,0,0,"Path",0,"EVERYTHING(Absolutely)","\AppData\Roaming\Vortex\ \profiles\",0,"","",1,,,0
 "[Links]All",0,0,0,0,0,"Attributes",0,"EVERYTHING","!D:\ wildcards:attrib:*L*",0,"","",1,,,0
+"[Apps]Portable",0,0,0,0,0,"Name",0,"EVERYTHING","E:\PortableApps ",0,"","",1,,,0
+"[backupfiles]possible",0,0,0,0,0,"Size",1,"EVERYTHING","!D: !E:\$ !C:\$  < bak | ~ | ""("" > !attribute:L !E:\SteamLibrary\Modding\VortexDownload\ !E:\ToDatabase\Sqlite\ !E:\ToDatabase\Json\",0,"","",1,,,0
 "dupes larger than 1mb",0,0,0,0,0,"Size",1,"EVERYTHING","sizedupe:size:large..gigantic",0,"","",1,,,0
 ":\$RECYCLE.BIN",0,0,0,0,0,"Size",1,"EVERYTHING",":\$RECYCLE.BIN",0,"","",1,,,0
 "ManagementConsoles",0,0,0,0,0,"Path",0,"EVERYTHING","ext:msc",0,"","",1,,,64
 "folderdupesNotLinks",0,0,0,0,0,"Name",0,"EVERYTHING","folder:wildcards:sizedupe: !(dmdupe:) !(attrib:L) !(namepartdupe:) size:huge..gigantic ",0,"","",1,,,0
 "AoE mods",0,0,0,0,0,"Extension",1,"EVERYTHING","""E:\SteamLibrary\steamapps\workshop\content\221380\""",0,"","",1,,,0
+"[Folders]ProgramFiles",0,0,0,0,0,"Size",1,"EVERYTHING","<C:|E:>\program files\  folder: parents:2",0,"","",1,,,0
+"VideosInt",0,0,0,0,0,"Name",0,"Video-ts","E:\pictures\x\internet\  !\$ size:medium-gigantic ",0,"","",1,,,0
+"everything",0,0,0,0,0,"Name",0,"EVERYTHING","everything",0,"","",1,,,0
+"wildcards:E:\Pictures\unsorted\  !<child:*.jpeg|child:*.png|child:*.bmp|child:*.jpg|child:*.gif> childfoldercount:0",0,0,0,0,0,"Size",0,"EVERYTHING","wildcards:E:\Pictures\unsorted\  !<child:*.jpeg|child:*.png|child:*.bmp|child:*.jpg|child:*.gif> childfoldercount:0",0,"","",1,,,0
 "DbMentionINIdiaFolder",0,0,0,0,0,"Date Accessed",0,"EVERYTHING","""C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\default\.idea\"" !\.git content:5b682ee5-608b-4b16-bdfd-1132a4a5566f",0,"","",1,,,0
-"dataSources dataGrip",0,0,0,0,0,"Date Accessed",0,"EVERYTHING","path:dataGrip path:projects dataSources.xml",0,"","",1,,,0
-"A_ModifiedToday",0,0,0,0,0,"Date Modified",1,"EVERYTHING","datemodified:today",0,"","",1,,,0
-"fastContent",0,0,0,0,0,"Date Accessed",1,"EVERYTHING(Absolutely)","!C: path:datagrip path:console ext:sql utf8content:""tbAehHaendelseFileObject""",0,"","",1,,,0
-"Putty Private Key",0,0,0,0,0,"Date Accessed",1,"EVERYTHING(Absolutely)","ext:ppk",0,"","",1,,,0
-"MdbViewerImportableFormats",0,0,0,0,0,"Date Accessed",1,"EVERYTHING(Absolutely)","ext:dbf;mdb;adt;wab;vcs;dbb;sav;wk1;wq1",0,"","",1,,,0
-"SQLite.dll",0,0,0,0,0,"Date Accessed",1,"EVERYTHING(Absolutely)","SQLite.dll",0,"","",1,,,0
+"VortexProfiles",0,0,0,0,0,"Path",0,"EVERYTHING(Absolutely)","""C:\Users\dator\AppData\Roaming\Vortex\fallout4\profiles""",0,"","",1,,,0
