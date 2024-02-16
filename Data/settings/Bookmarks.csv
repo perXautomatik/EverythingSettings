@@ -1,0 +1,37 @@
+Name,Case,Whole Word,Path,Diacritic,Regex,Sort,Descending,Filter,Search,Index,File List,Host,Link Type,Macro,Key,View
+"ProjectFolders",0,1,0,0,0,"Name",0,"EVERYTHING","<child:.vscode|child:.git|child:.idea|regex:child:""^.*[.]code-workspace$""> !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$ ",0,"","",1,,,0
+"[projects]consoles",0,0,0,0,0,"Date Modified",1,"EVERYTHING","< ""E:\Programming(projects)\Sql\consoles\db"" | config\consoles\db >  !folder: content:union",0,"","",1,,,0
+"[projects]Gitz",0,0,0,0,0,"Name",1,"EVERYTHING","regex:child:""^[.]git$"" !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$",0,"","",1,,,0
+"[Git]Ignores",0,0,0,0,0,"Size",1,"EVERYTHING",".gitignore",0,"","",1,,,0
+"[Git]Config",0,0,0,0,0,"Name",1,"EVERYTHING",".git\config !folder:",0,"","",1,,,0
+"[projects]Vscodez",0,0,0,0,0,"Date Accessed",0,"EVERYTHING","regex:child:""^.*[.]code-workspace$"" !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$ ",0,"","",1,,,0
+"[projects]IntelIJIdea",0,0,0,0,0,"Date Accessed",0,"EVERYTHING","regex:child:""^[.]idea$"" !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$ ",0,"","",1,,,0
+"[Browser]Extensions",0,0,0,0,0,"Size",1,"EVERYTHING","path:regex:<( chrome | firefox | opera | vivaldi | waterfox )> folder: Extension",0,"","",1,,,0
+"[EveryThing]FileLists",0,0,0,0,0,"Size",1,"EVERYTHING","!E:\$ ext:EFU",0,"","",1,,,0
+"[TODO]JsonsToClassify",0,0,0,0,0,"Name",1,"json","""E:\ToDatabase\"" !""E:\ToDatabase\Json\ImageMetaData\""",0,"","",1,,,0
+"[Links]All",0,0,0,0,0,"Attributes",0,"EVERYTHING","!D:\ wildcards:attrib:*L*",0,"","",1,,,0
+"[Apps]Portable",0,0,0,0,0,"Name",0,"EVERYTHING","E:\PortableApps ",0,"","",1,,,0
+"[backupfiles]possible",0,0,0,0,0,"Size",1,"EVERYTHING","!D: !E:\$ !C:\$  < bak | ~ | ""("" > !attribute:L !E:\SteamLibrary\Modding\VortexDownload\ !E:\ToDatabase\Sqlite\ !E:\ToDatabase\Json\",0,"","",1,,,0
+"dupes larger than 1mb",0,0,0,0,0,"Size",1,"EVERYTHING","sizedupe:size:large..gigantic",0,"","",1,,,0
+":\$RECYCLE.BIN",0,0,0,0,0,"Size",1,"EVERYTHING",":\$RECYCLE.BIN",0,"","",1,,,0
+"folderdupesNotLinks",0,0,0,0,0,"Name",0,"EVERYTHING","folder:wildcards:sizedupe: !(dmdupe:) !(attrib:L) !(namepartdupe:) size:huge..gigantic ",0,"","",1,,,0
+"AoE mods",0,0,0,0,0,"Extension",1,"EVERYTHING","""E:\SteamLibrary\steamapps\workshop\content\221380\""",0,"","",1,,,0
+"[Folders]ProgramFiles",0,0,0,0,0,"Size",1,"EVERYTHING","<C:|E:>\program files\  folder: parents:2",0,"","",1,,,0
+"VideosInt",0,0,0,0,0,"Name",0,"Video-ts","E:\pictures\x\internet\  !\$ size:medium-gigantic ",0,"","",1,,,0
+"everything",0,0,0,0,0,"Name",0,"EVERYTHING","everything",0,"","",1,,,0
+"PicturesWithoutChildFolders",0,0,0,0,0,"Size",0,"EVERYTHING","wildcards:E:\Pictures\unsorted\  !<child:*.jpeg|child:*.png|child:*.bmp|child:*.jpg|child:*.gif> childfoldercount:0",0,"","",1,,,0
+"DbMentionINIdiaFolder",0,0,0,0,0,"Date Accessed",0,"EVERYTHING","""C:\Users\crbk01\AppData\Roaming\JetBrains\DataGrip2021.1\projects\default\.idea\"" !\.git content:5b682ee5-608b-4b16-bdfd-1132a4a5566f",0,"","",1,,,0
+"VortexProfiles",0,0,0,0,0,"Path",0,"EVERYTHING(Absolutely)","""C:\Users\dator\AppData\Roaming\Vortex\fallout4\profiles""",0,"","",1,,,0
+"datemodified:today",0,0,0,0,0,"Size",1,"EVERYTHING","datemodified:today",0,"","",1,"modifiedt",,0
+"dataSources dataGrip",0,0,0,0,0,"Date Accessed",0,"EVERYTHING","path:dataGrip path:projects dataSources.xml",0,"","",1,,,0
+"[Json-Chromium]Bookmarks",0,0,0,0,0,"Date Accessed",1,"EVERYTHING(Absolutely)","wfn:bookmarks ext:",0,"","",1,,,0
+"fastContent",0,0,0,0,0,"Date Accessed",1,"EVERYTHING(Absolutely)","!C: path:datagrip path:console ext:sql utf8content:""tbAehHaendelseFileObject""",0,"","",1,,,0
+"gitRepoFolders",0,0,0,0,0,"Size",1,"EVERYTHING(Excluding:Wbin)","wholefilename:child:"".git"" !temp\",0,"","",1,,,0
+"Putty Private Key",0,0,0,0,0,"Date Accessed",1,"EVERYTHING(Absolutely)","ext:ppk",0,"","",1,,,0
+"MdbViewerImportableFormats",0,0,0,0,0,"Date Accessed",1,"EVERYTHING(Absolutely)","ext:dbf;mdb;adt;wab;vcs;dbb;sav;wk1;wq1",0,"","",1,,,0
+"dateaccessed:today",0,0,0,0,0,"Date Accessed",1,"EVERYTHING","dateaccessed:today",0,"","",1,"accessed",,0
+"buckets",0,0,0,0,0,"Date Modified",1,"EVERYTHING","path:bucket ext:json",0,"","",1,"bucket",,0
+"ScoopBuckets",0,0,0,0,0,"Name",0,"EVERYTHING","path:""C:\ProgramData\scoop\buckets\"" path:bucket\ ext:json",0,"","",1,,,0
+"Shims",0,0,0,0,0,"Path",0,"EVERYTHING","path:scoop\shims\",0,"","",1,"shim",,0
+"Scoop",0,0,0,0,0,"Path",0,"EVERYTHING","path:C:\ path:scoop !.git\ !empty:",0,"","",1,"scoop",,0
+"Today",0,0,0,0,0,"Date Accessed",1,"EVERYTHING","dateaccessed:today",0,"","",1,"today",,0
