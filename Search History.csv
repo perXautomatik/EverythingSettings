@@ -14,11 +14,22 @@ Search,Search Count,Last Search Date
 "Tokenization",7,133372597775219664
 "< vscode | code >",7,133372508099378883
 "git-status-cache-posh-client",7,133371998558676911
+"ps1: pip",3,133519720534243083
+"ext:ps1",3,133516038898145762
 "ext:d2i",3,133376498897730339
 "ext:csv;txt",3,133352879886992369
 "useFullRegEdits folder:",3,133347099302116280
 "B:\ToGit\ wfn:.git !folder: parents:7",3,133347063967973509
 "visualStudio folder:",3,133347005706484160
+"ps1: scoop",2,133522187234665113
+"path:D:\browserData !extensions\ regex:\\.*cache.*\\ files: !<pic:|vid:>",2,133522186448715107
+"path:<C:\Program Files (x86)\Steam\steamapps\common\Fallout 4\>",2,133521965732366848
+"path:D:\browserData !extensions\ regex:\\.*cache.*\\ files:",2,133521503766554828
+"regex:[.]ps.*",2,133518775583093285
+".git content:C:\Users\CrRoot\.config\.git",2,133518533026788862
+"path:code-workspace",2,133518517670801960
+"bucket: mpv",2,133516322813136758
+"bucket: content:persist content:-RunAs",2,133516322785236788
 "chris",2,133358995917378612
 "appData child:config ",2,133355301245319837
 ".ma0",2,133354706046316004
@@ -28,6 +39,44 @@ Search,Search Count,Last Search Date
 "xedit folder:",2,133347019318922528
 "B:\ToGit\ wfn:.git !folder: parents:5",2,133347007775724368
 "B:\ToGit\ wfn:.git !folder: parents:4",2,133347003074293731
+"ps1: scoop !shims",1,133522188047765212
+"bucket:",1,133522080772212717
+"path:bucket< vscode | code > file: content:vscode",1,133521966611706858
+"path:D:\browserData !extensions\ regex:\\.*cache.*\\ files: !<pic:|video:>",1,133521939042476121
+"path:C:\Program Files (x86)\Steam\steamapps\common\Fallout 4\",1,133519727005500403
+"C:\Windows\WinSxS\wow64_microsoft-windows-d..erver-wmiv2provider_31bf3856ad364e35_10.0.19041.1_none_c5a741f0a3028d6a\DhcpServerMigration.psm1",1,133519596905360555
+"C:\Windows\WinSxS\wow64_microsoft.powershell.dscresources_31bf3856ad364e35_10.0.19041.1_none_5ab46b9671589b69\",1,133519596218750187
+"ps1:",1,133519591230320208
+"powershell-scr",1,133518800971813424
+"path:D:\browserData !extensions\ regex:\\.*cache.*\\",1,133518772123097179
+"move",1,133518643318325157
+"path:D:\browserData !extensions\",1,133518609012003967
+"path:D:\browserData",1,133518607879818829
+"path:D:",1,133518607516688831
+"D: places",1,133518589080350836
+"D:",1,133518586533294797
+"Scoop-TestLib.ps1",1,133518549153882833
+".git content:gitdir: C:\Users\CrRoot\.config\.git",1,133518516601951955
+"path:workspace",1,133518514835831960
+"7days",1,133518038584020101
+".git content:C:/Users/CrRoot/.config/.git",1,133516411028300864
+"path:modules/powershell",1,133516363012239106
+".git content:scoopPers2/modules/powershell",1,133516362556429104
+"refs/",1,133516338089344691
+"config",1,133516326607156767
+".git",1,133516324366766770
+"bucket: content:persist content:link",1,133516125623156293
+"bucket: vscode content:persist",1,133516044664685789
+"bucket: vscode",1,133516043610575765
+"bucket: code",1,133516042487845739
+"datemodified:2023-07",1,133515986568405537
+"utf8content:::",1,133515984612185393
+"!\windows\ !\scoop !\choco !modules\ !\$",1,133515981671395444
+"!\windows\ !\scoop\ !\module\ !\$",1,133515980435595441
+"path:\user\settings.json",1,133515928846815271
+"path:data\user-data\user\",1,133515926727595479
+"path:B:\PF\Archive\ps1\git ",1,133515904205625674
+"ext:ps1 content:git-filter-path",1,133514600129561014
 "path:everything",1,133514448401571620
 "\.git",1,133512608943870335
 "path:\.git\ !path:\objects\ !path:\rr-cache !<Commit-map|nodes4|index> <content:WindowsPowershell>",1,133512607657270320
@@ -110,7 +159,6 @@ Search,Search Count,Last Search Date
 "child:10x10Cube",1,133351056116928063
 "10x10Cube",1,133351055792795278
 "ext:ps1 content:es.exe",1,133351050375376081
-"ext:ps1",1,133351049779159951
 """F:\O\Vortex Mods\diablo2resurrected\mods"" child:mod.js !child:_mod.js ",1,133350347393571341
 """F:\O\Vortex Mods\diablo2resurrected\mods"" child:mod.js !child:_mod.js parents:5",1,133350251690137965
 """F:\O\Vortex Mods\diablo2resurrected\mods"" child:mod.js !child:_mod.js",1,133350251214867966
