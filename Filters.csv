@@ -3,7 +3,6 @@ Name,Case,Whole Word,Path,Diacritics,Regex,Search,Macro,Key
 "EVERYTHING(createdToday)",0,0,0,0,0,"datecreated:today","ctoday",
 "AUDIO",0,0,0,1,0,"ext:aac;ac3;aif;aifc;aiff;au;cda;dts;fla;flac;it;m1a;m2a;m3u;m4a;m4b;m4p;mid;midi;mka;mod;mp2;mp3;mpa;ogg;ra;rmi;snd;spc;umx;voc;wav;wma;xm","audio",
 "![Git]",0,0,0,0,0,"!path:.git\","xgit",
-"SQLITE",0,0,0,1,0,"ext:sqlite;db;qlite","sqlite",
 "[SOURCE]SQl",0,0,0,0,0,"ext:sql","sql",
 "[SOURCE]Ps1",0,0,0,0,0,"ext:ps1;psm1 !\windows\ !\choco !modules\ !\$","ps1",
 "ManagementConsoles",0,0,0,0,0,"ext:msc","msc",
@@ -19,3 +18,4 @@ Name,Case,Whole Word,Path,Diacritics,Regex,Search,Macro,Key
 "persist",0,0,0,0,0,"path:scoop path:persis","persist",
 "NoExtension",0,0,0,0,0,"ext: ",,
 "Git-Refs",0,0,0,0,0,"<<path:\.git\ !path:\objects\ !path:\rr-cache !<Commit-map|nodes4|index>>|wfn:.git> file: ",,
+"dbs",0,0,0,1,0,"ext:sqlite;db;qlite","dbs",
