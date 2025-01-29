@@ -182,3 +182,486 @@ Search,Search Count,Last Search Date
 "AliasesUserProfile",1,133346976281303591
 "097a4f79a366b2d6d2b66ae43eef28ab",1,133346969034312528
 "virtualhere-server",1,133346013272570817
+"regex:child:""^[.]git$"" !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$",7,132739560030671480
+"ext:sql|ext:sqlite|ext:json|ext:js|ext:ahk|ext:bat|ext:ps1|ext:xml|ext:txt|ext:html|ext:db|ext:log !(E:\$|C:\$) !\older\",7,132637332422690781
+"!E:\$ ext:ahk ",7,132594747358875743
+"""E:\ToDatabase\"" !""E:\ToDatabase\Json\ImageMetaData\""",7,132576890313389041
+"folder: cache",6,132616853518656719
+"E:\Pictures\",6,132594246633442386
+"< ""E:\Programming(projects)\Sql\consoles\db"" | config\consoles\db >  !folder: content:union",6,132593549305636861
+"!D: !E:\$ !C:\$  < bak | ~ | ""("" > !attribute:L !E:\SteamLibrary\Modding\VortexDownload\ !E:\ToDatabase\Sqlite\ !E:\ToDatabase\Json\",6,132582573879919805
+":\$RECYCLE.BIN",6,132571054206010835
+"size:gigantic !folder: !D:\ datemodified:<2021-01-01",5,132626478864848269
+"<child:.vscode|child:.git|child:.idea> !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$ ",5,132588131817076697
+"<wildcards:diacritics:"".~*""> E:\  !folder: !E:\$",5,132587436601077901
+"regex:child:""^[.]git$""",5,132578902095764684
+"!folder: !D:\ datemodified:<2020-01-01 !\$ \Deskware",4,132632404011361348
+"<C:|E:>\program files\  folder: parents:2",4,132632182405174421
+"nirsoft/",4,132626479064978373
+"~",4,132611637330522394
+"regex:child:""^.*[.]code-workspace$"" !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$ ",4,132594740220561423
+"E:\Pictures\ x\",4,132594248493509866
+"config\consoles\db !folder:",4,132579081964585195
+"""E:\Programming(projects)\projectz\"" ",4,132576412466268030
+"parent:c\windows\system32 *.e",4,132570947689353278
+"empty:",3,133261924625327697
+"fn: ext:esp !\data ",3,132723141396002845
+"ext:js",3,132635057142505284
+"ext:sql",3,132632477180120909
+"E:\SteamLibrary\steamapps\workshop\content\221380\ folder: !""E:\SteamLibrary\steamapps\workshop\content\221380\281802458"" parents:6",3,132632183349886277
+"!folder: !D:\ datemodified:<2020-01-01 !\$ !\older",3,132626879883266775
+"ext:sqlite !\$ \todatabase\",3,132593721950795214
+"E:\ToDatabase\Sqlite\ !folder: ext:sqlite !-",3,132593697427768662
+"everything",3,132593269189097982
+"""E:\Pictures\Pictures\"" !\unsorted\ childfilecount:1..300 ",3,132591458373742557
+"sizedupe:!dmdupe: size:huge..gigantic ",3,132582677246207234
+"jdk1.",3,132578144823842285
+"glarysoft",3,132577924521249443
+"parent:c:\windows\system32 *.exe",3,132575623265907313
+"folder:wildcards:sizedupe:!(dmdupe:)!(infolder:E:\*RECYCLE*) size:huge..gigantic ",3,132571071310631689
+"sizedupe:size:huge..gigantic",3,132571054225396488
+"parent:""E:\PortableApps"" *.exe",3,132570949993910204
+"ext:bsa",2,132743112076775450
+"fn: ",2,132723298635251796
+"fn: esp 2021",2,132722477601113559
+"fn: ext:esp cell",2,132722459101849164
+"E:\Vortex Mods\falloutnv\ dir: datecreated:today",2,132718972675852882
+"loadorder",2,132717887650393811
+"ext:ini",2,132636818960106617
+"ext:rdp",2,132635064366121173
+"!\older\  !folder:",2,132634789525047417
+"((E:) (\PortableApps\4)) folder: parents:4",2,132632396069884608
+"!folder: !D:\ datemodified:<2020-01-01 !\$ !\Deskware",2,132626890540774132
+"!folder: !D:\ datemodified:<2020-01-01 !\$",2,132626480545808829
+"beeb",2,132619352668244751
+"git-remote",2,132616853558337989
+"parent:E:\Pictures\unsorted\ !<childfilecount:1 childfoldercount:0> !folder:",2,132594700794807029
+"!\$ ext:ahk !datemodified:20210305",2,132594315378862762
+"irfanview\",2,132594248526829891
+"""E:\Program Files\K-Lite Codec Pack""",2,132594248336233232
+"ext:sqlite !\$ \todatabase\ -",2,132593719299373386
+"ext:sqlite !\$ \todatabase\ !-",2,132593710899604739
+"\.datagrip|\datagrip",2,132593384954685457
+"""E:\ToDatabase\uTorrent"" !\what.cd\ ",2,132593244854645540
+"""E:\Pictures\Pictures\"" !\unsorted\ childfilecount:1..300 childfoldercount:0",2,132591572749532686
+"E:\Pictures\unsorted\",2,132590979730969622
+"E:\pictures\x\internet\",2,132590977283620219
+".git\config !folder:",2,132588348587279699
+"""config""",2,132588323806781332
+"age of empires",2,132588193454831112
+"<child:.vscode|child:.git|child:.idea|regex:child:""^.*[.]code-workspace$""> !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$ ",2,132588135197187032
+"regex:child:""^[.]code-workspace$"" !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$ ",2,132588133251604053
+"regex:child:""^[.]vscode$"" !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$ ",2,132587436943245386
+"E:\ ~ !folder:",2,132586695290026417
+"E:\ folder:",2,132585719605606490
+"!D:\ wildcards:attrib:*L*",2,132585010357997219
+"ext:dll !C:\$ !E:\$",2,132582977134516647
+"!D: !E:\$ !C:\$  < bak | ~ | ""("" > !attribute:L !E:\SteamLibrary\Modding\VortexDownload\ !E:\ToDatabase\Sqlite\",2,132582523233429913
+"C:\ config\consoles\db\",2,132579087749002653
+"E:\PortableApps ",2,132578724423278158
+"Origin",2,132577949411858556
+"filelistfilename:ImageDupes.csv",2,132577236141780132
+"Diagnosis",2,132577105156931855
+"Razer",2,132577091223552854
+"E:\ child:.git",2,132575941070310159
+"sizedupe:",2,132570998931505517
+"disk2vhd",1,133261889703571235
+"content:'getelement' ext:pas",1,132744150227448929
+"content:getelement ext:pas",1,132744150059941282
+"path:appdata\ dir: !\vortex !\vscode",1,132743154859768790
+"path:appdata\ dir: !vortex !vscode",1,132743154395862632
+"path:appdata\ dir:",1,132743149969047518
+"waterfo",1,132743145891865429
+"vortex\plugins\game",1,132742955511022995
+"EIISettings.in",1,132742882302529694
+"includes_HUDMainMenu.xml",1,132742843875414045
+"path:""E:\SteamLibrary\steamapps\common\"" ext:pas",1,132742773210064029
+"path:""E:\SteamLibrary\steamapps\common\Fallout New Vegas\"" ext:pas",1,132742770985123379
+"path:""E:\SteamLibrary\steamapps\common\Fallout New Vegas\Data\"" ext:bsa;esp;esm",1,132741954820344652
+"ext:bsa;esp;esm",1,132741954214228703
+"FALLOUT.ini",1,132741016334995500
+"pas: master",1,132740138492472038
+"pas: ref",1,132740125511062562
+"wildcards:path:!""*\.git*"" bcses",1,132739609023788460
+"bcompare",1,132739607655416036
+"path:<child:"".git"">",1,132739569760070611
+"child:.git",1,132739565120454016
+"text|name|full|replace",1,132738828308683495
+"find",1,132738823880162743
+"conta",1,132738821456047506
+"chec",1,132738814374897752
+"baseform",1,132738807303924537
+"armo",1,132738806026511167
+"_re",1,132738804210591982
+"ref,",1,132738800820268196
+"name",1,132738799872398273
+"levelled",1,132738799039746045
+"leveled",1,132738798566703425
+"hot mama fil",1,132738797834641273
+"health",1,132738794073641359
+"formid",1,132738792641741903
+"fix l",1,132738790409482750
+"file",1,132738789241914744
+"edid",1,132738787805024444
+"dt",1,132738786287129967
+"export",1,132738783827679634
+"generate",1,132738782356442842
+"generate loo",1,132738780901565837
+"value and ",1,132738767411761874
+"fn: ext:bsa",1,132738577316138528
+"C:\Users\chris\AppData\Local\Packages\Microsoft.YourPhone_8wekyb3d8bbwe\LocalCache\Indexed\81dee716-58c4-45fe-85c1-66f2b39fd100\System\",1,132723720632941425
+"phone",1,132723719994404497
+"fn: ext:esp !\data formid",1,132723149533177807
+"fn: ext:esp !\data",1,132723143541228099
+"fn: ext:esp !\data script",1,132723142791088003
+"fn: ext:esp !\data light",1,132723138408661678
+"fn: ext:esp !\data race",1,132723119726411245
+"fn: ext:esp !\data npc|nonpla",1,132723070339388047
+"fn: ext:esp \data ",1,132722826208989304
+"fn: ext:esp !\data 0",1,132722817937709184
+"fn: ext:esp !\data npc|non",1,132722525145408924
+"fn: !dir: !ext:dds;refcache;msgpack;json;modgroup !ext: !\data",1,132722501269860559
+"fn: !dir: !ext:dds;refcache;msgpack;json;modgroup !ext:",1,132722500280983608
+"fn: !dir: !ext:dds;refcache;msgpack;json !ext:",1,132722499554538999
+"fn: worldspace",1,132722488571290750
+"fn: race",1,132722484572123899
+"fn: 15173207",1,132722484068349954
+"fn: esp 15173207",1,132722482231434523
+"fn: cell ext:esp E:\Vortex Mods\falloutnv\15173207\cell001.esp",1,132722476477423844
+"fn: cell ext:esp",1,132722463348503226
+"fn: file",1,132722460530228318
+"fn: ext:esp cell ",1,132722459246548706
+"fn: ext:esp formid",1,132722447942517162
+"fn: ext:esp utf8content:deligith",1,132722406162017852
+"exe: python",1,132722312974706847
+"fn: esp",1,132721565184044085
+"placedNpc",1,132721341465704830
+"!<""E:\SteamLibrary\steamapps\common\Fallout New Vegas\Data""> nsns",1,132721291312048070
+"!<""E:\SteamLibrary\steamapps\common\Fallout New Vegas\Data""> DC DELIG",1,132721201468666044
+"!<""E:\SteamLibrary\steamapps\common\Fallout New Vegas\Data""> ext:bsa",1,132721138221555076
+"!<""E:\SteamLibrary\steamapps\common\Fallout New Vegas\Data""> bsa",1,132721099645021856
+"!<""E:\SteamLibrary\steamapps\common\Fallout New Vegas\Data""> fn: med",1,132721091946133634
+"!<""E:\SteamLibrary\steamapps\common\Fallout New Vegas\Data""> fn: ace",1,132721083734981254
+"fn: scra",1,132721081949763545
+"<""E:\Vortex Mods\falloutnv\""|""E:\SteamLibrary\steamapps\common\Fallout New Vegas\Data""> wsex",1,132721078204309761
+"<""E:\Vortex Mods\falloutnv\cb""|""E:\SteamLibrary\steamapps\common\Fallout New Vegas\Data""> fo4",1,132721075977296398
+"<""E:\Vortex Mods\falloutnv\cb""|""E:\SteamLibrary\steamapps\common\Fallout New Vegas\Data""> !dir:  datecreated:today",1,132720271155873639
+"E:\Vortex Mods\falloutnv\cb !dir:  weapons",1,132719752877109145
+"E:\Vortex Mods\falloutnv\cb !dir:  weq",1,132719752540895799
+"E:\Vortex Mods\falloutnv\cb !dir:  ",1,132719526182965035
+"E:\Vortex Mods\falloutnv\ dir: cb empty:",1,132719401318322125
+"E:\Vortex Mods\falloutnv\ dir: datecreated:today empty:",1,132718919892933377
+"ext:esp E:\Vortex Mods\falloutnv\",1,132718918611397993
+"ext:esp datecreated:today",1,132718907946422092
+"ext:esp",1,132718906734019661
+"esp !dir: !ext:esp",1,132718877754338246
+"!dir:",1,132717895503705367
+"plugins.txt",1,132717890012450289
+"plugins",1,132717888836653530
+"wholeword:esp !dir:",1,132717888823762102
+"C:\Users\chris\AppData\Local\FalloutNV\",1,132717887786870818
+"loadorder.txt",1,132717887596450601
+"dbs:",1,132717672171761567
+"startwith:cb",1,132716861399768063
+"system",1,132716858787938095
+"mopy ",1,132715945362396439
+"falloutnv\  childfoldercount:>1 parents:4",1,132715867719702802
+"falloutnv\  childfoldercount:>1",1,132715865212161916
+"fallout: ext:ini",1,132715805728529758
+"falloutnv\ archive:",1,132715684345963482
+"falloutnv archive:",1,132715682801098653
+"empty: !\$",1,132636871862632325
+"ext:mhtml",1,132634826676601494
+"ext:html",1,132634797840502887
+".pak \$",1,132634795269384932
+".pak",1,132634794650639321
+"\older\  opera|gx|chrome",1,132634789832386823
+" \older\C",1,132634173902425994
+" \older\E",1,132634172047342632
+"ext:sql|ext:sqlite|ext:json|ext:js|ext:ahk|ext:bat|ext:ps1|ext:xml|ext:txt|ext:html|ext:db|ext:log !(E:\$|C:\$) \older\E",1,132634171969379993
+"ext:sql|ext:sqlite|ext:json|ext:js|ext:ahk|ext:bat|ext:ps1|ext:xml|ext:txt !(E:\$|C:\$) !\older\",1,132632479157771519
+"ext:sql|ext:sqlite|ext:json|ext:js|ext:ahk|ext:bat|ext:ps1|ext:xml|ext:txt !(E:\$|C:\$)",1,132632478930809136
+"ext:sql|ext:sqlite|ext:json|ext:js|ext:ahk|ext:bat|ext:ps1|ext:xml !(E:\$|C:\$)",1,132632478434001733
+"ext:sql|ext:sqlite|ext:json|ext:js|ext:ahk|ext:bat|ext:ps1 !(E:\$|C:\$)",1,132632477798975706
+"ext:exe",1,132632474591490867
+"game|steam|nutaku ext:exe",1,132632462752955235
+"E:\program ext:exe",1,132632460550892269
+"E:\steam\",1,132632404132446573
+"((E:) (\PortableApps\3)) folder: parents:4",1,132632193075472405
+"((E:) (\PortableApps\1)) folder: parents:4",1,132632192323916716
+"((E:) (\PortableApps\2.) (Organization\PortableApps\)) parents:4",1,132632187042135447
+"(E:) (\PortableApps\2.) (Organization\PortableApps\)) parents:3",1,132632186924032797
+"(E:) (\PortableApps\2.) (Organization\PortableApps\) parent:3",1,132632186554907902
+"E:\PortableApps\2. file Organization\PortableApps\ folder:",1,132632185489084929
+"datemodified:>2020-01-01 !\$ !\older \dow",1,132626880463332702
+"datemodified:>2020-01-01 !\$ !\older",1,132626880011488864
+"size:gigantic !folder: !D:\ datemodified:<2020-01-01",1,132626479001669418
+"wildcards:E:\Pictures\unsorted\  !<child:*.jpeg|child:*.png|child:*.bmp|child:*.jpg|child:*.gif> childfoldercount:0",1,132594742808093337
+"wildcards:E:\Pictures\unsorted\  !<child:*.jpeg|child:*.png|child:*.bmp|child:*.jpg|child:*.gif>",1,132594742527396164
+"E:\Pictures\unsorted\ ",1,132594740417568726
+"parent:E:\Pictures\unsorted\ folder: empty:",1,132594701154395497
+"parent:E:\Pictures\unsorted\ !<childfilecount:1 childfoldercount:0>",1,132594392665201927
+"E:\Pictures\unsorted\ childfilecount:1 childfoldercount:0",1,132594379363689345
+"!\$ ext:ahk datemodified:20210305",1,132594304198936316
+"!\$ ext:ahk ",1,132594289187547254
+"!\$ ext:nsh",1,132594287255400236
+"Ahk !\$ !\tomahawk !tomahk",1,132594264351232570
+"Ahk !\$ !tomahawk",1,132594263939833025
+"Ahk !\$",1,132594263848804465
+"Ahk \$",1,132594263708426969
+"Ahk",1,132594263383729870
+"codec folder:",1,132594244086675431
+"E:\Pictures\ x",1,132593820156099440
+"ext:sqlite !\$ !\todatabase\",1,132593667250643781
+"ext:sqlite !\$",1,132593666749664280
+"ext:sqlite",1,132593666534530534
+"E:\ToDatabase\Sqlite\ !folder: ext:sqlite ",1,132593651454847816
+"E:\ToDatabase\Sqlite !folder: ext:sqlite ",1,132593639344349597
+"E:\ToDatabase\Sqlite !folder: !ext:json",1,132593638669119259
+"E:\ToDatabase\Sqlite",1,132593638290866033
+"code\ am.pak",1,132593621077945706
+"am.pak",1,132593619262832413
+"< ""E:\Programming(projects)\Sql\consoles\db"" | config\consoles\db >  !folder: content:trimm !""\42108198-5f85-4c1f-9d20-a7f2da8e1ec1\"" !""\2f5cf3b0-9e3b-4bc7-8be5-25fdf4dd5e90\""",1,132593563706145504
+"< ""E:\Programming(projects)\Sql\consoles\db"" | config\consoles\db >  !folder: content:trimm !""\42108198-5f85-4c1f-9d20-a7f2da8e1ec1\""",1,132593561653503378
+"< ""E:\Programming(projects)\Sql\consoles\db"" | config\consoles\db >  !folder: content:trim !""\42108198-5f85-4c1f-9d20-a7f2da8e1ec1\""",1,132593561549122175
+"< ""E:\Programming(projects)\Sql\consoles\db"" | config\consoles\db >  !folder: content:trim",1,132593557641158276
+"< ""E:\Programming(projects)\Sql\consoles\db"" | config\consoles\db >  !folder: content:insert content:notSuit",1,132593549574041538
+"wildcards:<C:\|E:\>*datagrip*\ content:6913f5ca-157c-466d-a665-fd00da9a",1,132593418797761633
+"wildcards:<C:\|E:\>*datagrip* content:c6027c7c",1,132593392736142721
+"wildcards:<C:\|E:\>*datagrip* content:c6027c7c-a449-44f3-b912-b60c75368aca",1,132593392201397443
+"wildcards:<C:\|E:\>*datagrip*\system\conversion",1,132593388376862695
+"C:\|E:\ datagrip \system\conversion",1,132593388060799646
+"datagrip \system\conversion",1,132593387969678059
+"datagrip ""\system\conversion""",1,132593387896084406
+"""\system\conversion"" datagrip",1,132593387648273478
+"""\system\conversion""",1,132593387172114080
+"\.datagrip|\datagrip !folder: datemodified:2021-03-04",1,132593386382658692
+"\.datagrip|\datagrip !folder:",1,132593385123431790
+"\.datagrip|\datagrip folder:",1,132593383433276511
+"datagrip",1,132593382655776005
+"< ""E:\Programming(projects)\Sql\consoles\db"" | config\consoles\db >  !folder: content:title",1,132593313190619357
+"""G:\My Pictures\"" !ext:png !ext:jpg",1,132591854174165562
+"""E:\ToDatabase\uTorrent"" !\what.cd\ !ext:torrent !folder:",1,132591612518159430
+"""E:\ToDatabase\uTorrent"" !\what.cd\",1,132591606205441134
+"""E:\ToDatabase\uTorrent""",1,132591573078422569
+"""e:\utorrent\""",1,132591572909988503
+"furr",1,132591432521556301
+"""E:\Pictures\Pictures\"" !\unsorted\ childfilecount:1..300 parents:3",1,132591430591185622
+"""E:\Pictures\Pictures\"" !\unsorted\ childfilecount:1",1,132591429601947707
+"""E:\Pictures\Pictures\"" !\unsorted\ folder:",1,132591423320814495
+"""E:\Pictures\Pictures\"" empty:",1,132591422143132089
+"""E:\Pictures\Pictures\"" ",1,132591422039968679
+"""E:\Pictures\Pictures"" empty:",1,132591421274080003
+"E:\Pictures\Pictures",1,132591421066874089
+"E:\Pictures\Pictures empty:",1,132591033565213837
+"E:\ ""E:\Anything"" empty:",1,132591008315281420
+"E:\ ""E:\Pictures\unsorted\"" empty:",1,132591000600412167
+"E:\ ""E:\Pictures\unsorted\""",1,132590979922114046
+"""E:\Pictures\unsorted\""",1,132590979791688763
+"E:\pictures\x\internet\  !\$ size:medium-gigantic ",1,132590729495838861
+"E:\ !\$ size:medium-gigantic !E:\pictures\x\internet\",1,132590721642811772
+"E:\ !\$ size:medium-gigantic !\E:\pictures\x\internet\",1,132590721582174412
+"E:\ !\$ size:medium-gigantic !\E:\pictures\x\internet",1,132590721442088828
+"E:\ !\$ size:medium-gigantic",1,132590709595957649
+"E:\ !\$",1,132590709051240995
+"E:\",1,132590708913994915
+"<C:|E:>\program files\  folder: parents:2 !child:.exe",1,132590188963408837
+"internal/streams/stream",1,132589221878958374
+"cjs",1,132589220050901355
+"loader.js",1,132589218801020281
+"cjs/loader",1,132589218551114846
+"internal/modules/cjs/loader",1,132589218489484992
+""".config"" !folder: !\$",1,132589215870712628
+"_stream_readable.js",1,132589213957227812
+"""/internal/streams/stream""",1,132589209538952651
+"""E:\SteamLibrary\steamapps\workshop\content\221380\""",1,132589199606748397
+"ext:ai",1,132589199347829503
+"/age ext:dat",1,132588623855081106
+"ext:slp",1,132588623056521348
+"ext:drs",1,132588622559153887
+"E:\SteamLibrary\steamapps\workshop\content\221380\ folder: !""E:\SteamLibrary\steamapps\workshop\content\221380\281802458""",1,132588353128238264
+"E:\SteamLibrary\steamapps\workshop\content\221380\ folder:",1,132588352643574320
+"\age ext:exe",1,132588349865106276
+"\age",1,132588349214329213
+"age",1,132588349116642425
+"wholefilename:""config"" !folder:",1,132588325006102829
+"""E:\SabrinaDrive\Documents and Settings\Sabrina\My Documents\Downloads"" folder:",1,132588313172996992
+"""E:\SabrinaDrive\Documents and Settings\Sabrina\My Documents\Downloads"" !Directory:",1,132588312916069812
+"""E:\SabrinaDrive\Documents and Settings\Sabrina\My Documents\Downloads""",1,132588312275678908
+"50533",1,132588296497181699
+"filesystem.cpp",1,132588290174659001
+"filsystem.cpp",1,132588290025659834
+"E:\SteamLibrary\steamapps\workshop\content folder: parents:9",1,132588207748389337
+"E:\SteamLibrary\steamapps\workshop\content folder: parents:8",1,132588207309920796
+"E:\SteamLibrary\steamapps\workshop\content folder:",1,132588200159635354
+"E:\SteamLibrary\steamapps\workshop\content",1,132588199836733217
+"E:\SteamLibrary\steamapps\workshop\content\",1,132588192243244790
+"beond",1,132588188649845052
+"resources\_common\ai",1,132588184152575788
+"ai",1,132588182700793782
+"ext:xml !\$",1,132588030616455065
+"ext:download",1,132587521582491953
+"<child:.vscode|child:.git> !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$ ",1,132587440212392166
+"<child:.vscode|.git> !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$ ",1,132587440009357491
+"child:<"".vscode""|"".git""> !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$ ",1,132587439568483473
+"<"".vscode""|"".git""> child: !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$ ",1,132587439095451275
+"<.vscode> | <.git> child: !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$ ",1,132587438709377522
+"regex:child:<""^[.]vscode$""|""^[.]git$""> !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$ ",1,132587437260267905
+"beebeep",1,132586770873949348
+"E:\ ~ !folder: !E:\$",1,132586699479303462
+"G:\ folder:",1,132586669498799227
+"G:\",1,132586669288029099
+"<regex:child:""^[.]idea$"" !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$> ",1,132585872238188966
+"<regex:child:""^[.]idea$"" !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$> a",1,132585842674858217
+"<regex:child:""^[.]git$"" !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\"" !E:\$ !D:\$ !C:\$> a",1,132585720739211873
+"!D:\ wildcards:attrib:<*L*>",1,132583162308394746
+" E:\ C:\",1,132583161169598908
+"wildcard: E:\ C:\",1,132583161129366579
+"zlib.dll",1,132583158511130747
+" !C:\$ !E:\$ linkman",1,132582981863040948
+"ext:dll !C:\$ !E:\$ ""linkman""",1,132582980082685917
+"ext:dll !C:\$ !E:\$ ""libeay32""",1,132582979744257438
+"ext:dll !C:\$ !E:\$ ""libssl32""",1,132582979196875359
+"ext:dll !C:\$ !E:\$ ""ssleay32.dll""",1,132582978669365554
+"ext:dll !C:\$ !E:\$ ""sqlite3.dll""",1,132582978201341679
+"ext:dll !C:\$ !E:\$ sqlite",1,132582977926724357
+"ext:dll !D:\ !E:\$ !C:\$ !C:\windows !E:\windows !dupe: content:",1,132582522750307292
+"ext:dll !D:\ !E:\$ !C:\$ !C:\windows !E:\windows",1,132582521404296745
+"< ""E:\Programming(projects)\Sql\consoles\db"" | config\consoles\db >  !folder: ",1,132582494779813872
+"< ""E:\Programming(projects)\Sql\consoles\db"" | config\consoles\db > ",1,132582494423474869
+"""E:\Programming(projects)\Sql\consoles\db"" !folder: content:union",1,132579101735240240
+"""E:\Programming(projects)\Sql\consoles\db"" !folder: !E:\Programming(projects)\Sql\consoles\db\df12b0e0",1,132579091038113831
+"""E:\Programming(projects)\Sql\consoles\db"" !folder:",1,132579090402928442
+"consoles",1,132579089447942476
+"C:\Users\Dator\ consoles",1,132579088886278927
+"C:\ config\consoles\db",1,132579087813457429
+"C",1,132579087254943236
+"config\consoles\db\",1,132579086590785927
+"C:\Users\Dator\.DataGrip2019.1\config\consoles\db\",1,132579083325502904
+"""C:\Users\Dator\.DataGrip2019.1\config\consoles\db\"" ",1,132579082714398519
+"E:\.DataGrip2019.1\config\consoles !folder: !E:\.DataGrip2019.1\config\consoles\db\df12b0e0-4edc-4d15-ad9c-975f1eb86a9f\",1,132579079931037956
+"config\consoles\db !folder: !E:\.DataGrip2019.1\config\consoles\db\df12b0e0-4edc-4d15-ad9c-975f1eb86a9f\",1,132579078209551097
+"regex:child:""^[.]git$"" !mapinfo !mapbasic !""E:\Programming(projects)\mapinfo\Mapinfo-Library\""",1,132578924265397687
+"regex:child:""^[.]git$"" !mapinfo !mapbasic",1,132578922052373811
+"regex:child:""^[.]git$"" !mapinfo",1,132578921865524952
+"config\consoles\db !folder: content:""ASCII""",1,132578766600425630
+"config\consoles\db !folder: content:""ASCII_REF""",1,132578766211500000
+"config\consoles\db !folder: content:""UNION ALL""",1,132578755547954582
+"config\consoles\db !folder: content:'/'",1,132578753890363034
+"config\consoles\db !folder: content:""\""",1,132578753488190632
+"config\consoles\db !dir:",1,132578725461577416
+"E:\PortableApps disk",1,132578145185481048
+"SendTo",1,132578048075746496
+"lib",1,132578017438272101
+"E:\Pictures",1,132578015298529780
+"VueScan",1,132578012879653460
+"Morrowind",1,132578003982666101
+"MorrowindMods",1,132578003882842059
+"atma",1,132578000993212885
+"NWN2Editor.zip-929-4-1",1,132578000677082432
+"loot",1,132577999759037433
+"klei",1,132577998781247074
+"MWScriptExtender",1,132577989659789880
+"SimpleGra",1,132577971628520917
+"path of ",1,132577971226373575
+"digsby",1,132577964143834942
+"path of bu",1,132577953142482471
+"ath of",1,132577953040449532
+"fomod",1,132577951585622416
+"C:\ ""Origin""",1,132577949628316900
+"capture_pa",1,132577942628632073
+"winrar",1,132577939725987903
+"ext:java",1,132577928373043101
+"jdk",1,132577245866405820
+"C:\ java",1,132577240271272497
+"C:\",1,132577240123377214
+"Java",1,132577239924665241
+"Oracle\Java\",1,132577239835141841
+"\ProgramData\Oracle\Java\",1,132577239417249995
+"D:\ProgramData\Oracle\Java\",1,132577239169831768
+"""Java""",1,132577238956583377
+"D:\",1,132577231600015778
+"Search/data/application",1,132577108968712117
+"SystemData",1,132577099719482834
+"DiagnosticLogCSP",1,132577099013818977
+"EdgeUpdate",1,132577098055575074
+"Search",1,132577096743607898
+"Agent",1,132577096184715771
+"AppRepository",1,132577094763239213
+"Windows Defender",1,132577092131954835
+"Avide",1,132577087867725158
+"GIMP 2",1,132577086633377559
+"TortoiseGit",1,132577084266830806
+"Easeware",1,132577083923266304
+"Filtration",1,132577079303771942
+"SoulseekQt",1,132577078630602356
+"RaidCall",1,132577077848573506
+"Beyond Compare 4",1,132577076506176393
+"Skype",1,132577074815906346
+"TeamViewer",1,132577074365819799
+"ATI Technologies",1,132577074224101550
+"AMD",1,132577073697090392
+"MusicBee",1,132577073174240393
+"VLC",1,132577070661714337
+"syncables",1,132577070607188130
+"StarUML",1,132577069770232452
+"Microsoft VS Code",1,132577068409238182
+"iTunes",1,132577067817607068
+"Tomahawk",1,132577066166837485
+"ShareMouse",1,132577063347316356
+"USOPrivate",1,132577061752347201
+"Packages",1,132577060127122839
+"""Google""",1,132577059395250868
+"ScanSoft",1,132577058819987218
+"Last.fm",1,132577058406260827
+"FLEXnet",1,132577057661092404
+"USOShared",1,132577056323350969
+"Path of Building",1,132577055681117143
+"Blizzard Entertainment",1,132577054210552295
+"Oracle",1,132577053191275271
+"galaxy",1,132577051807358471
+" microsoft",1,132577049842146313
+"E:\ToDatabase\",1,132576890753929034
+"regex:child:""[.]git$""",1,132575966657749438
+"regex:child:""[.]git""",1,132575966498420129
+"child:"".git""",1,132575965549130229
+""".git""",1,132575941716716609
+"arena",1,132575674950953711
+"!D: !E:\$ !C:\$  < bak | ~ | ""("" > !attribute:L !E:\SteamLibrary\Modding\VortexDownload\",1,132575647133184626
+"!D: !E:\$ !C:\$  < bak | ~ | ""("" > !attribute:L !E:\mod",1,132575646847070619
+"!D: !E:\$ !C:\$  < bak | ~ | ""("" > !attribute:L",1,132575646238165929
+"!D: !E:\$ !C:\$ bak | ~ | ""("" !attribute:L",1,132575643129754096
+"!D: !E:\$ !C:\$ bak | ~ | ""(",1,132575642096258590
+"C:\ProgramData\Microsoft\Windows\Start Menu\SearchedExecutables\ ""(""",1,132575641037746606
+"""C:\ProgramData\Microsoft\Windows\Start Menu\SearchedExecutables\"" ",1,132575638500036722
+"C: !C:\Windows\ !ext:msi !ext:msp exe: !attrib:L !C:\$",1,132575637372118757
+"!parent:c:\windows\ * !parent:c:\windows\system32 * !ext:msi !ext:msp",1,132575624717146126
+"""E:\ToDatabase\"" ",1,132574794269165077
+"sizedupe: !(dmdupe:) !(attrib:L) !(namepartdupe:) size:..huge (!folder: )",1,132571094957054434
+"sizedupe: !(dmdupe:) !(attrib:L) !(namepartdupe:) size:huge..gigantic (!folder: )",1,132571087024159197
+"folder:wildcards:sizedupe: !(dmdupe:) !(attrib:L) !(namepartdupe:) size:huge..gigantic ",1,132571083192199974
+"folder:wildcards:sizedupe: !(dmdupe:) !(attrib:L) size:huge..gigantic ",1,132571078112619819
+"folder:wildcards:sizedupe: !(dmdupe:) !(namepartdupe:) size:huge..gigantic ",1,132571075880083762
+"folder:wildcards:sizedupe: (dmdupe:) size:huge..gigantic ",1,132571074923658018
+"!(infolder:E:\$RECYCLE*) !(infolder:C:\$RECYCLE*) size:huge..gigantic ",1,132571073994993362
+"!(infolder:E:\*RECYCLE*) !(infolder:C:\*RECYCLE*) size:huge..gigantic ",1,132571073728124531
+"wildcards:sizedupe:!(dmdupe:)!(infolder:*RECYCLE*) size:huge..gigantic ",1,132571069792068272
+"sizedupe:!(dmdupe:)!(infolder:E:\$RECYCLE.BIN) size:huge..gigantic ",1,132571069158805648
+"sizedupe:!(dmdupe:)!(infolder:E:\$RECYCLE.BIN\) size:huge..gigantic ",1,132571069045752629
+"sizedupe:!(dmdupe:)!(infolder:*RECYCLE*) size:huge..gigantic ",1,132571068786310828
+"sizedupe:!(dmdupe:)!(*RECYCLE*) size:huge..gigantic ",1,132571068371357481
+"sizedupe:!(dmdupe:)!(parent:*RECYCLE*) size:huge..gigantic ",1,132571068096319495
+"sizedupe:!(dmdupe:)!(parent:E:\$RECYCLE.BIN) size:huge..gigantic ",1,132571067946329079
+"sizedupe:!(dmdupe:)!(parent:c:\recycl) size:huge..gigantic ",1,132571067679001107
+"sizedupe:!(dmdupe:) size:huge..gigantic ",1,132571065552117683
+"nutaku",1,132571044584774223
+"Sacred Sword Princesses",1,132571043657843620
+"sizedupe:size:large..gigantic",1,132571026615046315
+" dupe:",1,132570955708586846
+"E:\$RECYCLE.BIN",1,132570952094187771
+"nocase:empty:",1,132570951788185554
+"parent:E:\PortableApps\",1,132570950369376950
+"parent:E:\PortableApps\ *.exe",1,132570950163699811
+"parent:""E:\PortableApps\*"" *.exe",1,132570950058982926
+"parent:""E:\PortableApps"" ",1,132570949851234335
+"parent:E:\",1,132570949680912890
