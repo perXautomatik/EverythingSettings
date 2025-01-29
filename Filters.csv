@@ -14,6 +14,7 @@ Name,Case,Whole Word,Path,Diacritics,Regex,Search,Macro,Key
 "EXECUTABLE",0,0,0,1,0,"ext:bat;cmd;exe;msi;msp;scr","exe",
 "FOLDER",0,0,0,1,0,"folder:","dir",
 "PICTURE",0,0,0,1,0,"ext:ani;bmp;gif;ico;jpe;jpeg;jpg;pcx;png;psd;tga;tif;tiff;webp;wmf","img",
+"json",0,0,0,1,0,"ext:json;js","json",
 "AppData",0,0,0,0,0,"path:AppData\","appdata",
 "persist",0,0,0,0,0,"path:scoop path:persis","persist",
 "NoExtension",0,0,0,0,0,"ext: ",,
